@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The AlexaForBusiness module of AWS Tools for PowerShell lets developers and administrators manage Alexa For Business from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.alexaforbusiness.4.1.90.nupkg",
+    "hash": "a3d4450f4d0eb155edc32d475cda5838e1cdd1ef21cc9eb6f0d540cc5aa6ba69",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.AlexaForBusiness"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.AlexaForBusiness",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.alexaforbusiness.$version.nupkg"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The ElasticTranscoder module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Transcoder from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elastictranscoder.4.1.90.nupkg",
+    "hash": "3617d9840fbbb7719535ca1ac7f3d4c572bb22017e52c0ffad33eb4e76e131bd",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.ElasticTranscoder"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.ElasticTranscoder",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elastictranscoder.$version.nupkg"
+    }
+}

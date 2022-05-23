@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The KinesisVideoMedia module of AWS Tools for PowerShell lets developers and administrators manage Amazon Kinesis Video Streams Media from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisvideomedia.4.1.90.nupkg",
+    "hash": "098212da148fbf88d6e158e6ec926e60df35ed36071f06fb0f9f7b64e675a7d9",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.KinesisVideoMedia"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.KinesisVideoMedia",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisvideomedia.$version.nupkg"
+    }
+}

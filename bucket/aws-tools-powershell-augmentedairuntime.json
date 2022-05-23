@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The AugmentedAIRuntime module of AWS Tools for PowerShell lets developers and administrators manage Amazon Augmented AI (A2I) Runtime from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.augmentedairuntime.4.1.90.nupkg",
+    "hash": "c70dc5aa678810508ddc79a5d1e729d24c05522b5c7992ac4cf0d1b3c6636549",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.AugmentedAIRuntime"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.AugmentedAIRuntime",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.augmentedairuntime.$version.nupkg"
+    }
+}

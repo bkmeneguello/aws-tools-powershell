@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The Route53Domains module of AWS Tools for PowerShell lets developers and administrators manage Amazon Route 53 Domains from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.route53domains.4.1.90.nupkg",
+    "hash": "bcd2f7458cbd0124dda02b969c835d7168f2c46945d15a4847d48acdca5d77c7",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.Route53Domains"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.Route53Domains",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.route53domains.$version.nupkg"
+    }
+}

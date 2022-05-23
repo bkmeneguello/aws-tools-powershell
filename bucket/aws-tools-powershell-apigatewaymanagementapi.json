@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The ApiGatewayManagementApi module of AWS Tools for PowerShell lets developers and administrators manage Amazon API Gateway Management API from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.apigatewaymanagementapi.4.1.90.nupkg",
+    "hash": "5d6b0bb01b1148e95a7c09a6fc4ed984b2480144398fa989cc50597770031e2e",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.ApiGatewayManagementApi"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.ApiGatewayManagementApi",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.apigatewaymanagementapi.$version.nupkg"
+    }
+}

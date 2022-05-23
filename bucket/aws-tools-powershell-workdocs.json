@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The WorkDocs module of AWS Tools for PowerShell lets developers and administrators manage Amazon WorkDocs from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.workdocs.4.1.90.nupkg",
+    "hash": "c0db562955894220016e2f8028432522bcffcf548186de06d0d5f14cc2fa0cb9",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.WorkDocs"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.WorkDocs",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.workdocs.$version.nupkg"
+    }
+}

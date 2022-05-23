@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The KinesisAnalyticsV2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Kinesis Analytics V2 from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisanalyticsv2.4.1.90.nupkg",
+    "hash": "700a4f7f152da3fb2c99de580e755ad09118ec999e1828bea88742f32a94e425",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.KinesisAnalyticsV2"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.KinesisAnalyticsV2",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisanalyticsv2.$version.nupkg"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The Macie2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Macie 2 from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.macie2.4.1.90.nupkg",
+    "hash": "e798bb8edac17ba0b9e0e31f5257d82dff46895fe092caf1503cc28173f5d378",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.Macie2"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.Macie2",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.macie2.$version.nupkg"
+    }
+}

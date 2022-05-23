@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The Amplify module of AWS Tools for PowerShell lets developers and administrators manage AWS Amplify from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.amplify.4.1.90.nupkg",
+    "hash": "3c67c0cc53da843bff23689d23805a6550f2691cbd8af0bbbd15e055905f4105",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.Amplify"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.Amplify",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.amplify.$version.nupkg"
+    }
+}

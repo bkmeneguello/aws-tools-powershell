@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The CloudSearchDomain module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudSearch Domain from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudsearchdomain.4.1.90.nupkg",
+    "hash": "f6ef3ce2350a357f5cebc650890b0f78dca86e1062cbe5de3a87b76ae6bcffef",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.CloudSearchDomain"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.CloudSearchDomain",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudsearchdomain.$version.nupkg"
+    }
+}

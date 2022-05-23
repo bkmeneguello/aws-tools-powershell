@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The IoTWireless module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Wireless from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotwireless.4.1.90.nupkg",
+    "hash": "2246a81491e1fdf58c4a20835b124f6081656542ea4da62a6c75cdeb77e5f7ec",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.IoTWireless"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.IoTWireless",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotwireless.$version.nupkg"
+    }
+}

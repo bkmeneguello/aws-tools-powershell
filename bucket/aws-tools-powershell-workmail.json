@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The WorkMail module of AWS Tools for PowerShell lets developers and administrators manage Amazon WorkMail from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.workmail.4.1.90.nupkg",
+    "hash": "a0a7ff48fcabf9eb89f0be21ee2d86f2686e294ac189eab3bcee5cc0b7a62e6b",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.WorkMail"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.WorkMail",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.workmail.$version.nupkg"
+    }
+}

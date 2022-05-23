@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The KeyManagementService module of AWS Tools for PowerShell lets developers and administrators manage AWS Key Management Service from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.keymanagementservice.4.1.90.nupkg",
+    "hash": "0bc2a2ac896ac2ce099d3c9abfc82c192cf32f665e546e7f3be1c512c4c30af9",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.KeyManagementService"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.KeyManagementService",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.keymanagementservice.$version.nupkg"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "version": "4.1.90",
+    "description": "The DevOpsGuru module of AWS Tools for PowerShell lets developers and administrators manage Amazon DevOps Guru from the PowerShell scripting environment",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.devopsguru.4.1.90.nupkg",
+    "hash": "c6973edb140d91959c9b40bb085d1e6516cedf2754e13e093599dc301dbe4914",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "AWS.Tools.DevOpsGuru"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/AWS.Tools.DevOpsGuru",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.devopsguru.$version.nupkg"
+    }
+}
