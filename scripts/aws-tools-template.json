@@ -1,0 +1,19 @@
+{
+    "version": "0",
+    "description": "<TBD>",
+    "homepage": "https://github.com/aws/aws-tools-for-powershell",
+    "license": "Apache-2.0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/<TBD>.nupkg",
+    "hash": "<TBD>",
+    "depends": "aws-tools-powershell-common",
+    "psmodule": {
+        "name": "<TBD>"
+    },
+    "checkver": {
+        "url": "https://www.powershellgallery.com/packages/<TBD>",
+        "regex": "Downloads of ([\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://psg-prod-eastus.azureedge.net/packages/<TBD>.$version.nupkg"
+    }
+}
