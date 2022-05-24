@@ -1,10 +1,10 @@
 {
-    "version": "4.1.90",
+    "version": "4.1.91",
     "description": "The MWAA module of AWS Tools for PowerShell lets developers and administrators manage AmazonMWAA from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mwaa.4.1.90.nupkg",
-    "hash": "9c8e8fa17b580442e487712d1827c5d2ab3847d0fdee8bda165b1b1b4b4c0d1f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mwaa.4.1.91.nupkg",
+    "hash": "93aa19d26f5b351ac8d3c36a8cc5c377676ee3b0ec90131366c5d6a4dc1a5c04",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MWAA"
