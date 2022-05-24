@@ -1,10 +1,10 @@
 {
-    "version": "4.1.90",
+    "version": "4.1.91",
     "description": "The S3Outposts module of AWS Tools for PowerShell lets developers and administrators manage Amazon S3 Outposts from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.s3outposts.4.1.90.nupkg",
-    "hash": "823309903aa39dc1adfe99b1923e968235f3169be641d37049928ae05e47cbda",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.s3outposts.4.1.91.nupkg",
+    "hash": "d20fb151c96b8fa0aa47c29694c8ae7e4030a16c1ac659d40b86f4167a41e562",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.S3Outposts"
