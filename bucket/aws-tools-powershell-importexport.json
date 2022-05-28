@@ -1,10 +1,10 @@
 {
-    "version": "4.1.93",
+    "version": "4.1.95",
     "description": "The ImportExport module of AWS Tools for PowerShell lets developers and administrators manage AWS Import/Export from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.importexport.4.1.93.nupkg",
-    "hash": "acdda009021e15c9b9f7f5cad2e9aba275b5272a8e440c7cea218dc4027658e3",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.importexport.4.1.95.nupkg",
+    "hash": "4247f134207d202cdadcff276d9e941c62edd423956d7c0cba7a6b81d0947ebc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ImportExport"
