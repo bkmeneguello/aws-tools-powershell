@@ -1,10 +1,10 @@
 {
-    "version": "4.1.95",
+    "version": "4.1.97",
     "description": "The CodeGuruProfiler module of AWS Tools for PowerShell lets developers and administrators manage Amazon CodeGuru Profiler from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codeguruprofiler.4.1.95.nupkg",
-    "hash": "d448f6851edd1f0416a834b52a7269ff8f9cc5adacc4e60df9bad87d5e13c6b5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codeguruprofiler.4.1.97.nupkg",
+    "hash": "d8bc447c04db7bc7969da29650906eca4b39409b8d5e3cf3e9b3c93d39cfa038",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeGuruProfiler"
