@@ -1,10 +1,10 @@
 {
-    "version": "4.1.99",
+    "version": "4.1.100",
     "description": "The CloudWatchEvidently module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch Evidently from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatchevidently.4.1.99.nupkg",
-    "hash": "62e4f5c0762d879d3ed9474614db6c2601f4b4d76f3033621c1b0f0a1a1ea547",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatchevidently.4.1.100.nupkg",
+    "hash": "d84ebc06c6c3385adeb90a821b3ee88f6377b0dc95e5354ae485de93bbc7e410",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudWatchEvidently"
