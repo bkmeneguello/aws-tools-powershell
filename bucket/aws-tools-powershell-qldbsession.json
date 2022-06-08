@@ -1,10 +1,10 @@
 {
-    "version": "4.1.99",
+    "version": "4.1.100",
     "description": "The QLDBSession module of AWS Tools for PowerShell lets developers and administrators manage Amazon QLDB Session from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.qldbsession.4.1.99.nupkg",
-    "hash": "40d69a1955a69a4488c57badb2033157b1e56f20a1ab395b2d04daeb66fa16cb",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.qldbsession.4.1.100.nupkg",
+    "hash": "2c58fde44149b51158817d4b9cd7c8a141812b6278de773f29ebb859e1411a6e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.QLDBSession"
