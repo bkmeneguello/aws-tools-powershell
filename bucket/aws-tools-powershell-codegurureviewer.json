@@ -1,10 +1,10 @@
 {
-    "version": "4.1.99",
+    "version": "4.1.100",
     "description": "The CodeGuruReviewer module of AWS Tools for PowerShell lets developers and administrators manage Amazon CodeGuru Reviewer from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codegurureviewer.4.1.99.nupkg",
-    "hash": "1c8aa23db2a7454c821d2b8e79e237985cf7e1bab369d7eb9e2d065928e9dff8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codegurureviewer.4.1.100.nupkg",
+    "hash": "2bd0d0068f25529b8c57ddaadbced07ade071ec9729b3e212d0c32aa34d5a2ad",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeGuruReviewer"
