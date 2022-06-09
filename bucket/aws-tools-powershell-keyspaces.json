@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The Keyspaces module of AWS Tools for PowerShell lets developers and administrators manage Amazon Keyspaces from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.keyspaces.4.1.100.nupkg",
-    "hash": "85aa40ebd4bccd5309cbccbbd78d32d7d28961f614b72a20a590c032a7bf65c8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.keyspaces.4.1.101.nupkg",
+    "hash": "4e2422a5673226cd5f65e5680faa1f6bb89849b071d50ba439f3eae8d6fac292",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Keyspaces"
