@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The LakeFormation module of AWS Tools for PowerShell lets developers and administrators manage AWS Lake Formation from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lakeformation.4.1.100.nupkg",
-    "hash": "719d50b5389c55933a5112a37f30463395a183bfb9d6ba3bc763be1d1475e54f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lakeformation.4.1.101.nupkg",
+    "hash": "c1e5d712f55c85fe7aeba03cd13034e8dfbc68f72cb356aa19aa3dd621ff5761",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.LakeFormation"
