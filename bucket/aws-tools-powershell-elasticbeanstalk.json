@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The ElasticBeanstalk module of AWS Tools for PowerShell lets developers and administrators manage AWS Elastic Beanstalk from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticbeanstalk.4.1.100.nupkg",
-    "hash": "df5e5f6dc0d06448be9bbbbaff1e3a04746c73218d34bd5c124848406a803826",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticbeanstalk.4.1.101.nupkg",
+    "hash": "ff6c68cff5a8becb87826301f18813cf7199814cdf722b2d12e089d18bf5303c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ElasticBeanstalk"
