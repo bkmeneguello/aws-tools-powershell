@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The ApplicationCostProfiler module of AWS Tools for PowerShell lets developers and administrators manage Amazon ApplicationCostProfiler from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.applicationcostprofiler.4.1.100.nupkg",
-    "hash": "d0eef751decc51ae8048b4ab8ecbc98e55d83346f7c9e83c5bc6d84aed6fc4aa",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.applicationcostprofiler.4.1.101.nupkg",
+    "hash": "773429abe584b3d4a47126e358be9474c4ae8de9cf02024d5199f4b7f79d5e40",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ApplicationCostProfiler"
