@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The DeviceFarm module of AWS Tools for PowerShell lets developers and administrators manage AWS Device Farm from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.devicefarm.4.1.100.nupkg",
-    "hash": "2ab05887f203cbabb2fe49735a8a46e74fd724f15483720690df5e42f541bd4b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.devicefarm.4.1.101.nupkg",
+    "hash": "d29b719be2af38fe4a905c44dbab81565a98f1d624c271db50af00ba3c0035d7",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DeviceFarm"
