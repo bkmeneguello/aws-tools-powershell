@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The DataPipeline module of AWS Tools for PowerShell lets developers and administrators manage AWS Data Pipeline from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.datapipeline.4.1.100.nupkg",
-    "hash": "0228fe01039ff0d69b292b5cd374723b4cafc300141a81e58f3fe090494e67da",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.datapipeline.4.1.101.nupkg",
+    "hash": "85498d02da9ad85b9338a7fa5c872c710d58c8fb4a184670827786dc3dde27a5",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DataPipeline"
