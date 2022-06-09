@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The AWSHealth module of AWS Tools for PowerShell lets developers and administrators manage AWS Health from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awshealth.4.1.100.nupkg",
-    "hash": "968c4ddc9d5399db9f908b923f27f541b267b17df38ab700a38f3c40d0a9b2da",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awshealth.4.1.101.nupkg",
+    "hash": "0e10ebc7f2df384f921f45c732bca60b1a18a04ff81cf88c9856d274d6aa2dd1",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AWSHealth"
