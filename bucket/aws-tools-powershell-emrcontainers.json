@@ -1,10 +1,10 @@
 {
-    "version": "4.1.100",
+    "version": "4.1.101",
     "description": "The EMRContainers module of AWS Tools for PowerShell lets developers and administrators manage Amazon EMR Containers from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.emrcontainers.4.1.100.nupkg",
-    "hash": "9f99c68afc9ad4ad8d9fbffe0e8111f35eccd8bb3d19a91ae01c37f2e7e0a654",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.emrcontainers.4.1.101.nupkg",
+    "hash": "b024bca6e27347d965ccbb1dc2beff0a2d4fc131ea0664ab222edb864a0ee624",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.EMRContainers"
