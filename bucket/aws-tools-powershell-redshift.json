@@ -1,10 +1,10 @@
 {
-    "version": "4.1.102",
+    "version": "4.1.103",
     "description": "The Redshift module of AWS Tools for PowerShell lets developers and administrators manage Amazon Redshift from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.redshift.4.1.102.nupkg",
-    "hash": "778829919e2501284f6dc3a0dde172d71d8611834e356cab2d77746bff6d15ae",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.redshift.4.1.103.nupkg",
+    "hash": "d7a288f9c086cb9b1a2ff7ea935d2fb82b787e06806d7e8b863ab40349ff3c83",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Redshift"
