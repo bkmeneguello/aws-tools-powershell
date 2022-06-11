@@ -1,10 +1,10 @@
 {
-    "version": "4.1.102",
+    "version": "4.1.103",
     "description": "The IdentityStore module of AWS Tools for PowerShell lets developers and administrators manage AWS Identity Store from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.identitystore.4.1.102.nupkg",
-    "hash": "daa079d180ca5a061ab6e6cac30d691dab050d61067fb9d6ee8af2991c6bfd9d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.identitystore.4.1.103.nupkg",
+    "hash": "a3bc93007155150a757afcfb62edc3df1e923ccd1852269bd597e3de8cd42f7b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IdentityStore"
