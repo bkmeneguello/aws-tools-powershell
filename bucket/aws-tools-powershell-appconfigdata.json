@@ -1,10 +1,10 @@
 {
-    "version": "4.1.102",
+    "version": "4.1.103",
     "description": "The AppConfigData module of AWS Tools for PowerShell lets developers and administrators manage AWS AppConfig Data from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appconfigdata.4.1.102.nupkg",
-    "hash": "0a276b33f5728b662551edf56440b669e8779f2250cbdd9dca8527a47897dc20",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appconfigdata.4.1.103.nupkg",
+    "hash": "652c20cc84a89a7a09308bf616c4ae47a7ea0e802aa53eb5a3f3a4063fc16a08",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AppConfigData"
