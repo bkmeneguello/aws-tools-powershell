@@ -1,10 +1,10 @@
 {
-    "version": "4.1.105",
+    "version": "4.1.106",
     "description": "The Kinesis module of AWS Tools for PowerShell lets developers and administrators manage Amazon Kinesis from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesis.4.1.105.nupkg",
-    "hash": "e16581e7b5f513e28687a60a58ba0d66e054e266c181ef4e8a195482cc7995c2",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesis.4.1.106.nupkg",
+    "hash": "e8a6e380ccbdfab21da01326195dff642b0f4d4013778731dd9ee07e3d81cbb2",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Kinesis"
