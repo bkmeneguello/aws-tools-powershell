@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The Lightsail module of AWS Tools for PowerShell lets developers and administrators manage Amazon Lightsail from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lightsail.4.1.108.nupkg",
-    "hash": "6bcb60093cf19da501bbb7ab76ed3b3b6cbbbb006348cc2cb8d5ce6763023a9b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lightsail.4.1.110.nupkg",
+    "hash": "11a227e8d7db8e93271a33723a4b5a0797c231e57a210db3ec5699fefd1ebe6b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Lightsail"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.Lightsail",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lightsail.$version.nupkg"

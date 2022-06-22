@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The CloudWatchRUM module of AWS Tools for PowerShell lets developers and administrators manage CloudWatch RUM from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatchrum.4.1.108.nupkg",
-    "hash": "cffad4d6d1bc7fdd8af782199d5ab12255ba9e9fb1190e00d281272c7fa5117a",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatchrum.4.1.110.nupkg",
+    "hash": "3c3bb5e7a6aa1648af55f4cb2ca5b14be8b4c2182049f6400dc4a321d183559c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudWatchRUM"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.CloudWatchRUM",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatchrum.$version.nupkg"

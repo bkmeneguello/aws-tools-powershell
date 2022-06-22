@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The RedshiftDataAPIService module of AWS Tools for PowerShell lets developers and administrators manage Redshift Data API Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.redshiftdataapiservice.4.1.108.nupkg",
-    "hash": "ce98899b47156ea6053e23d2f26c20dd0800fb0589ea5bf7bda9e26410aecfac",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.redshiftdataapiservice.4.1.110.nupkg",
+    "hash": "7f43adaad31902680115e65b59affd864d542fe0b04c572cf9c482e8eed2efbc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.RedshiftDataAPIService"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.RedshiftDataAPIService",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.redshiftdataapiservice.$version.nupkg"

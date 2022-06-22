@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The Route53Resolver module of AWS Tools for PowerShell lets developers and administrators manage Amazon Route 53 Resolver from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.route53resolver.4.1.108.nupkg",
-    "hash": "12ff5debb9389d32108fcf722e30355eb868f793ef1eb61afdaf94bc371d00ed",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.route53resolver.4.1.110.nupkg",
+    "hash": "88d715ec08f53a37e362053315b0df685a3aa1e4749a6bf00346efdb9d5d64f0",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Route53Resolver"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.Route53Resolver",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.route53resolver.$version.nupkg"

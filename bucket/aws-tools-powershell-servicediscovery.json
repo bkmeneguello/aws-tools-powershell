@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The ServiceDiscovery module of AWS Tools for PowerShell lets developers and administrators manage AWS Cloud Map from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicediscovery.4.1.108.nupkg",
-    "hash": "1d6c023169c359645e3b96129cd75fa329986c79c130b31a65b80351f837b888",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicediscovery.4.1.110.nupkg",
+    "hash": "e4b2f3d4a243fb50f69e507eca9e8d5aeb242bcad68667f54666ff17cd7ff791",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ServiceDiscovery"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.ServiceDiscovery",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicediscovery.$version.nupkg"

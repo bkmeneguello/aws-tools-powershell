@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The HealthLake module of AWS Tools for PowerShell lets developers and administrators manage Amazon HealthLake from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.healthlake.4.1.108.nupkg",
-    "hash": "6f32ffbce5d63c971365fa5070c03e88a529a55224ac62d7dc85a402fdb8dda0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.healthlake.4.1.110.nupkg",
+    "hash": "588f618c338c5849b9c1ebbe390a1c75bdbd8ff0e7da9b7de529f4da4ec92123",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.HealthLake"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.HealthLake",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.healthlake.$version.nupkg"

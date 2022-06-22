@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The MediaTailor module of AWS Tools for PowerShell lets developers and administrators manage AWS Elemental MediaTailor from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediatailor.4.1.108.nupkg",
-    "hash": "22588fbdc2eba1acd9bf5cf35b10c8d735dde2fd2a236f9d7772108c979dbfc0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediatailor.4.1.110.nupkg",
+    "hash": "7e6dedcbc7d9db75db272dada04aae688f1acbbf493ac294f8f01d76a9778966",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MediaTailor"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.MediaTailor",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediatailor.$version.nupkg"

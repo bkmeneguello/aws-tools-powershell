@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The RoboMaker module of AWS Tools for PowerShell lets developers and administrators manage AWS RoboMaker from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.robomaker.4.1.108.nupkg",
-    "hash": "dc73e731f2f10fbd2d00a5cfb8e9068b9fe1858a83f51c48414cfa1f66936fd1",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.robomaker.4.1.110.nupkg",
+    "hash": "43565951b7ca4546dd1592d0101ee8a6c0d8d1d5b0e5b69179aceba95a416dd9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.RoboMaker"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.RoboMaker",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.robomaker.$version.nupkg"

@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The SageMakerFeatureStoreRuntime module of AWS Tools for PowerShell lets developers and administrators manage Amazon SageMaker Feature Store Runtime from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemakerfeaturestoreruntime.4.1.108.nupkg",
-    "hash": "b06bad6b4cbbe28e5dcae4c0ae33c5bb0f2b1e13b23b96b232db113a1f28e20f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemakerfeaturestoreruntime.4.1.110.nupkg",
+    "hash": "bc97c25e5ff07afe94bd64970fe71b953adf096b97e5769be02cc9b7c99e9e76",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SageMakerFeatureStoreRuntime"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.SageMakerFeatureStoreRuntime",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemakerfeaturestoreruntime.$version.nupkg"

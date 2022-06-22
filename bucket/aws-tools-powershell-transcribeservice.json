@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The TranscribeService module of AWS Tools for PowerShell lets developers and administrators manage Amazon Transcribe Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.transcribeservice.4.1.108.nupkg",
-    "hash": "7d52dcecf82d4f698c39ee0e4c61bc8d550e162b9afbbefb27d00e182bed7392",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.transcribeservice.4.1.110.nupkg",
+    "hash": "417ca73123a019fece2a0c893812224b44ee3216a71629ea47c1f282a045f8c6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.TranscribeService"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.TranscribeService",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.transcribeservice.$version.nupkg"

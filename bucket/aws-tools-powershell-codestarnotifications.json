@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The CodeStarNotifications module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeStar Notifications from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codestarnotifications.4.1.108.nupkg",
-    "hash": "e4bc20b62c6e6d561b7da3044948f405e4152d72598b2b1219aec5f34fbf14de",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codestarnotifications.4.1.110.nupkg",
+    "hash": "060ac5c2e14064ad3c539fcb9c0deff6328fcdd8673cf935325ca768c8d28a93",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeStarNotifications"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.CodeStarNotifications",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codestarnotifications.$version.nupkg"

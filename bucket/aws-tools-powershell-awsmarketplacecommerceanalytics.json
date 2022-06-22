@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The AWSMarketplaceCommerceAnalytics module of AWS Tools for PowerShell lets developers and administrators manage AWS Marketplace Commerce Analytics from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awsmarketplacecommerceanalytics.4.1.108.nupkg",
-    "hash": "cb1cafef8f9e98913746773113482c8574334a540b4a578f5b57c9cac6ca9df7",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awsmarketplacecommerceanalytics.4.1.110.nupkg",
+    "hash": "bc4def8b1a8f2f04ae9859bb9455c8f77920964092aa36c10c64f6f2d0d81c7e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AWSMarketplaceCommerceAnalytics"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.AWSMarketplaceCommerceAnalytics",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awsmarketplacecommerceanalytics.$version.nupkg"

@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The Elasticsearch module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elasticsearch from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticsearch.4.1.108.nupkg",
-    "hash": "7c96688c574c41196192427f99030de37754f15d95986571274524bda101ec6d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticsearch.4.1.110.nupkg",
+    "hash": "1c1297ac6aa69a37edf90b0044c54db1cded93c93300ebfbd8c741b6509f4fe8",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Elasticsearch"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.Elasticsearch",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticsearch.$version.nupkg"

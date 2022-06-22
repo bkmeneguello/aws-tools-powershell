@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The MediaConnect module of AWS Tools for PowerShell lets developers and administrators manage AWS Elemental MediaConnect from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediaconnect.4.1.108.nupkg",
-    "hash": "c6316a57e17519e662aed28f0948bbdf20b88a0aaad256a8bd3cc5938f608e5b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediaconnect.4.1.110.nupkg",
+    "hash": "19232567e33cfefb0234e453e5e041839a4fbeca2d3851d65f2c7440f3d82db2",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MediaConnect"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.MediaConnect",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediaconnect.$version.nupkg"

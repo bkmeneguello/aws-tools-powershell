@@ -1,20 +1,23 @@
-$basepath = Split-Path -Path $MyInvocation.MyCommand.Path -Parent
-PowerShellGet\Find-Module -Name 'AWS.Tools.*' -Repository 'PSGallery' |  Where-Object -Property 'Name' -NotIn ('AWS.Tools.Common', 'AWS.Tools.Installer') | ForEach-Object -Process {
-    $pkg_name = $_.Name.ToLower()
-    $n = $pkg_name.Split('.')
-    $t_name = $n[0..1] + 'powershell' + $n[2] -join '-'
-    $m_file = "$basepath\..\bucket\$t_name.json"
-    $t = (Get-Content -Path $basepath\aws-tools-template.json | ConvertFrom-Json)
-    if (Test-Path $m_file) {
-        $m = (Get-Content $m_file | ConvertFrom-Json)
-        $t.version = $m.version
-        $t.url = $m.url
-        $t.hash = $m.hash
+$BasePath = Split-Path -Path $PSScriptRoot -Parent
+$TemplateFile = Get-Item -Path $BasePath\scripts\aws-tools-template.json
+PowerShellGet\Find-Module -Name 'AWS.Tools.*' -Repository 'PSGallery' `
+| Where-Object -Property 'Name' -NotIn ('AWS.Tools.Common', 'AWS.Tools.Installer') `
+| ForEach-Object -Process {
+    $ModuleName = $_.Name.ToLower()
+    $n = $ModuleName.Split('.')
+    $TemplateName = $n[0..1] + 'powershell' + $n[2] -join '-'
+    $ModuleFile = Get-Item -Path "$BasePath\bucket\$TemplateName.json" -ErrorAction SilentlyContinue
+    $TemplateJSON = $TemplateFile | Get-Content | ConvertFrom-Json
+    if ($ModuleFile.Exists) {
+        $ModuleJSON = $ModuleFile | Get-Content | ConvertFrom-Json
+        $TemplateJSON.version = $ModuleJSON.version
+        $TemplateJSON.url = $ModuleJSON.url
+        $TemplateJSON.hash = $ModuleJSON.hash
     }
-    $t.description = $_.description.Split('.')[0]
-    $t.psmodule.name = $_.Name
-    $t.checkver.url = $t.checkver.url.Replace('<TBD>', $_.Name)
-    $t.autoupdate.url = $t.autoupdate.url.Replace('<TBD>', $pkg_name)
-    ConvertTo-Json $t | Set-Content -Path $m_file
+    $TemplateJSON.description = $_.Description -Split '[.]' | Select-Object -First 1
+    $TemplateJSON.psmodule.name = $_.Name
+    $TemplateJSON.checkver.url = $TemplateJSON.checkver.url -Replace ('<TBD>', $_.Name)
+    $TemplateJSON.autoupdate.url = $TemplateJSON.autoupdate.url -Replace ('<TBD>', $ModuleName)
+    $ModuleFile | Set-Content -Value ($TemplateJSON | ConvertTo-Json)
 }
 # Get-ChildItem -Path bucket\aws-tools-*.json | ForEach-Object -Process { $_.Basename }

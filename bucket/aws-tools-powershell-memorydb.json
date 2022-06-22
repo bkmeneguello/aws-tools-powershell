@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The MemoryDB module of AWS Tools for PowerShell lets developers and administrators manage Amazon MemoryDB from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.memorydb.4.1.108.nupkg",
-    "hash": "47a29453b2421bd1320a5de8dd7dce0ef0000c201a90f20a03d6a5d43c252d2a",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.memorydb.4.1.110.nupkg",
+    "hash": "6734e2d12f43c92a15f91a6878a69c5bbefac083bbe9e09d1d431b505d0482d8",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MemoryDB"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.MemoryDB",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.memorydb.$version.nupkg"

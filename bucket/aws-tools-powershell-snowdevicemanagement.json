@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The SnowDeviceManagement module of AWS Tools for PowerShell lets developers and administrators manage AWS Snow Device Management from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.snowdevicemanagement.4.1.108.nupkg",
-    "hash": "ca27a92a8995e047ee42c4287362f9043a90a653da7d4937fb142c3e7f701de5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.snowdevicemanagement.4.1.110.nupkg",
+    "hash": "2f52838411d9b16460366313bf0556bf10fa7abf290f9c9053ca0889b396a3e2",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SnowDeviceManagement"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.SnowDeviceManagement",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.snowdevicemanagement.$version.nupkg"

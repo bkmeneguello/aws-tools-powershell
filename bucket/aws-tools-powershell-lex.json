@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The Lex module of AWS Tools for PowerShell lets developers and administrators manage Amazon Lex from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lex.4.1.108.nupkg",
-    "hash": "047772e56b7a17d2f4cdcf1d9dfb6daef041a2ae1e0fa975f63efd05d6afd642",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lex.4.1.110.nupkg",
+    "hash": "6db885e9c2b92d922ccf2689604a932908386e65f7ffe8c1d160a38882042eeb",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Lex"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.Lex",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lex.$version.nupkg"

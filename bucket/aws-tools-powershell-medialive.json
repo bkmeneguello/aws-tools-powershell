@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The MediaLive module of AWS Tools for PowerShell lets developers and administrators manage AWS Elemental MediaLive from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.medialive.4.1.108.nupkg",
-    "hash": "ac9b5f483631d0dde026f1a0f6dd9feaaf0ad1759c5aca0a639b65a4748746c6",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.medialive.4.1.110.nupkg",
+    "hash": "9cb142448eea3a4a75ba89f3f9b6b100289073c6946cc9962a289ba7348a45f2",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MediaLive"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.MediaLive",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.medialive.$version.nupkg"

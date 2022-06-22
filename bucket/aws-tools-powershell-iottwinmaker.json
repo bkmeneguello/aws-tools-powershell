@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The IoTTwinMaker module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT TwinMaker from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iottwinmaker.4.1.108.nupkg",
-    "hash": "27ede29f64e6d04d6802f97c4755e55ba587380bac49fe668bf0cb4cb89ee8aa",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iottwinmaker.4.1.110.nupkg",
+    "hash": "db9eace19c230da9ad019e38bb25256872cf63e03d4b76f3a9b29fd7353f4956",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IoTTwinMaker"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.IoTTwinMaker",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iottwinmaker.$version.nupkg"

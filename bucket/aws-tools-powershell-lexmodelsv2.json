@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The LexModelsV2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Lex Model Building V2 from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lexmodelsv2.4.1.108.nupkg",
-    "hash": "215dd638270a270368ab69c712732fbd11e4b05ade9a9c20ced44b0bde5efdce",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lexmodelsv2.4.1.110.nupkg",
+    "hash": "b46a51c3682658c76ac076a971410d4cfbf79997f703fbfdd55f3c90b69483b2",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.LexModelsV2"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.LexModelsV2",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lexmodelsv2.$version.nupkg"

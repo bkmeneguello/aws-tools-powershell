@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The MediaPackage module of AWS Tools for PowerShell lets developers and administrators manage AWS Elemental MediaPackage from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediapackage.4.1.108.nupkg",
-    "hash": "1c3ef5f776b9bd323ef9ee840af87d89c102690f56538a7b3e74d1c2435f0fb9",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediapackage.4.1.110.nupkg",
+    "hash": "5eb94dd7a8e3b8055c5bc82b3efb3372ec014f72c8c2293c96b7c3e1fcad195d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MediaPackage"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.MediaPackage",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediapackage.$version.nupkg"

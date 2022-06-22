@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The ChimeSDKMessaging module of AWS Tools for PowerShell lets developers and administrators manage Amazon Chime SDK Messaging from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chimesdkmessaging.4.1.108.nupkg",
-    "hash": "a9bb248925bb7f432a9ece34db8c7907f5afeb1e69ff9e7d5bee4be4bfd8d033",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chimesdkmessaging.4.1.110.nupkg",
+    "hash": "96ec7269c209d85b611be9324f5a2debf1477822c55ccc88012bf922a526deec",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ChimeSDKMessaging"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.ChimeSDKMessaging",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chimesdkmessaging.$version.nupkg"

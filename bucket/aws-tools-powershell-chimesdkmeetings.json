@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The ChimeSDKMeetings module of AWS Tools for PowerShell lets developers and administrators manage Amazon Chime SDK Meetings from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chimesdkmeetings.4.1.108.nupkg",
-    "hash": "a0756797d0b4eebaffcc03b73a132d3c0870da51be51c15ff1d888bc8e634e89",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chimesdkmeetings.4.1.110.nupkg",
+    "hash": "0866ff36b1eac72a5ff6c5ce28f2aad6f032e11d33be428604c1d00827d4e8f5",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ChimeSDKMeetings"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.ChimeSDKMeetings",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chimesdkmeetings.$version.nupkg"

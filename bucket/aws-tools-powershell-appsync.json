@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The AppSync module of AWS Tools for PowerShell lets developers and administrators manage AWS AppSync from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appsync.4.1.108.nupkg",
-    "hash": "c37f7ea99d0ec65bc631377da092bf38b12fec460defe3fc35bca64d6b4a63e9",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appsync.4.1.110.nupkg",
+    "hash": "5c2ddb5eb13b0899ba805d19bd05730f3448b5410c00fef5757dea182bd87ce9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AppSync"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.AppSync",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appsync.$version.nupkg"

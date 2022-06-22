@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The IoTDeviceAdvisor module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Core Device Advisor from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotdeviceadvisor.4.1.108.nupkg",
-    "hash": "b72d16c6fe809f8f81daeb1c497a9a6468393216643dfe30184f209230a410bc",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotdeviceadvisor.4.1.110.nupkg",
+    "hash": "c2b303be190b6796522fd09201839d65fb1d3d0dc8d0acfaff90f9684d038a89",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IoTDeviceAdvisor"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.IoTDeviceAdvisor",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotdeviceadvisor.$version.nupkg"

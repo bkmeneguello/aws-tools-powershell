@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The IoTSecureTunneling module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Secure Tunneling from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotsecuretunneling.4.1.108.nupkg",
-    "hash": "2aa900db515a023973ec417cd67cdc5aa2b4f4a48a47f38d0920b37725c2a3b8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotsecuretunneling.4.1.110.nupkg",
+    "hash": "eb138ef5f7b89b11bdd995f1d90b992950351153c0ce3fc6e41d8e11a2d83977",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IoTSecureTunneling"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.IoTSecureTunneling",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotsecuretunneling.$version.nupkg"

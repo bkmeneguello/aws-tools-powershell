@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The IoTFleetHub module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT Fleet Hub from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotfleethub.4.1.108.nupkg",
-    "hash": "414f78a89bad562b762b44c41b8acf2f81d524a8c0dcb9ef4bbd59f3ca2faf48",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotfleethub.4.1.110.nupkg",
+    "hash": "959f6549f8ac3f9ac472785d582e3a63bca3d369ebca8a613f24441816ff9861",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IoTFleetHub"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.IoTFleetHub",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iotfleethub.$version.nupkg"

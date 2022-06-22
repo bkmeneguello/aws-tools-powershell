@@ -1,17 +1,17 @@
 {
-    "version": "4.1.109",
+    "version": "4.1.110",
     "description": "The PinpointEmail module of AWS Tools for PowerShell lets developers and administrators manage Amazon Pinpoint Email from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pinpointemail.4.1.109.nupkg",
-    "hash": "af975d43a7f54832828770115c4bedfee7adf9614680230a335588d83d4f1993",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pinpointemail.4.1.110.nupkg",
+    "hash": "655e7f97e3f29afb67571be96e7afff2fffb8153de63166b175c8be80e883b44",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.PinpointEmail"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.PinpointEmail",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pinpointemail.$version.nupkg"

@@ -1,17 +1,17 @@
 {
-    "version": "4.1.108",
+    "version": "4.1.110",
     "description": "The Personalize module of AWS Tools for PowerShell lets developers and administrators manage AWS Personalize from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.personalize.4.1.108.nupkg",
-    "hash": "2f1c4151ebb2eafa3ccf6ff155f059c3ea74723ffffadc9d1874aec55d076be6",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.personalize.4.1.110.nupkg",
+    "hash": "a463e96e8a3456fc50124ff57e5d14ae9c9c4a82546721d7f064ddfb688b14c5",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Personalize"
     },
     "checkver": {
         "url": "https://www.powershellgallery.com/packages/AWS.Tools.Personalize",
-        "regex": "Downloads of ([\\d.]+)"
+        "regex": "Downloads? of ([\\d.]+)"
     },
     "autoupdate": {
         "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.personalize.$version.nupkg"
