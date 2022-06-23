@@ -1,10 +1,10 @@
 {
-    "version": "4.1.110",
+    "version": "4.1.111",
     "description": "The WellArchitected module of AWS Tools for PowerShell lets developers and administrators manage AWS Well-Architected Tool from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.wellarchitected.4.1.110.nupkg",
-    "hash": "29b386d09c271b70ee603f7b04177c802e8175028892ca882d90e5755645573d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.wellarchitected.4.1.111.nupkg",
+    "hash": "2fa75ca54dc329ecebd86501d5fc401e0553c992fe1af62d6c9dab2eb9f68962",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.WellArchitected"
