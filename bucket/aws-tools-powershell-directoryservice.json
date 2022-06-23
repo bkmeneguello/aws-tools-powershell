@@ -1,10 +1,10 @@
 {
-    "version": "4.1.110",
+    "version": "4.1.111",
     "description": "The DirectoryService module of AWS Tools for PowerShell lets developers and administrators manage AWS Directory Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.directoryservice.4.1.110.nupkg",
-    "hash": "18bb9e15725db0c916dac9e8df5781487c20e59e48b978cd2ebc8bf30e3a76d8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.directoryservice.4.1.111.nupkg",
+    "hash": "c621e07e259cd0ea095b830c491919daa63e64bc7066b16be603ab11e196da26",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DirectoryService"
