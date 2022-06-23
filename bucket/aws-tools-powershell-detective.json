@@ -1,10 +1,10 @@
 {
-    "version": "4.1.110",
+    "version": "4.1.111",
     "description": "The Detective module of AWS Tools for PowerShell lets developers and administrators manage Amazon Detective from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.detective.4.1.110.nupkg",
-    "hash": "c9f06386cb01baee74e8738b45308690233dc81f73a809180905ce35051b3af0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.detective.4.1.111.nupkg",
+    "hash": "0f6adf205806737baa4703af189602b0915e47c2573069a090a203491b0d4f89",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Detective"
