@@ -1,10 +1,10 @@
 {
-    "version": "4.1.110",
+    "version": "4.1.111",
     "description": "The MTurk module of AWS Tools for PowerShell lets developers and administrators manage Amazon MTurk Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mturk.4.1.110.nupkg",
-    "hash": "d7f6e2aa98b3fee6d963b02e025ace5060d8cd3349888797086073463b88aa96",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mturk.4.1.111.nupkg",
+    "hash": "f6e3b0ed000c8dd915ce9ddf22b61f283ef562d6af4271ad2a70c43aa31e379e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MTurk"
