@@ -1,10 +1,10 @@
 {
-    "version": "4.1.111",
+    "version": "4.1.112",
     "description": "The TimestreamWrite module of AWS Tools for PowerShell lets developers and administrators manage Amazon Timestream Write from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.timestreamwrite.4.1.111.nupkg",
-    "hash": "0c4aeac0a5353e18c5daa13dc40352a8dff69e79a2804dfefc74ef8c8530a591",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.timestreamwrite.4.1.112.nupkg",
+    "hash": "380fc755376ecf7f4c87a66d6ba00ae6505522cd41bcfd63885d9dae00a75191",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.TimestreamWrite"
