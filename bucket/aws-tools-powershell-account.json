@@ -1,10 +1,10 @@
 {
-    "version": "4.1.111",
+    "version": "4.1.112",
     "description": "The Account module of AWS Tools for PowerShell lets developers and administrators manage AWS Account from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.account.4.1.111.nupkg",
-    "hash": "5f024659e2e933df92111b8e8fc74cf8ce425b7c2816c43f63c959f57ef7c0ff",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.account.4.1.112.nupkg",
+    "hash": "a66e6d02e0ac982b24f571797a083578eb5090ccacedd0e957ac8754cef8d53d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Account"
