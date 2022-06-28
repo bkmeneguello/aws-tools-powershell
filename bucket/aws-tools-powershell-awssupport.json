@@ -1,10 +1,10 @@
 {
-    "version": "4.1.113",
+    "version": "4.1.114",
     "description": "The AWSSupport module of AWS Tools for PowerShell lets developers and administrators manage AWS Support from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awssupport.4.1.113.nupkg",
-    "hash": "d511ded35302886cf8b99d7f86fda01366860cfb7712107d7fb4373a9b4e54ec",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.awssupport.4.1.114.nupkg",
+    "hash": "cc33c59c7a87390e0b4e5f1a07faed071ade076bb3ef02c977bd60e272daf3f6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AWSSupport"
