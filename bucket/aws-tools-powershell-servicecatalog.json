@@ -1,10 +1,10 @@
 {
-    "version": "4.1.118",
+    "version": "4.1.119",
     "description": "The ServiceCatalog module of AWS Tools for PowerShell lets developers and administrators manage AWS Service Catalog from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicecatalog.4.1.118.nupkg",
-    "hash": "19dd01bae35c3ac0b8e0cfad4c1222e53276756f6ab8733fddc6c4db8ed13592",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicecatalog.4.1.119.nupkg",
+    "hash": "b53ef33ca37dd4decafa366d94fdbb15e847770f1950feb72cb6244974036506",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ServiceCatalog"
