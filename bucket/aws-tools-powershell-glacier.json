@@ -1,10 +1,10 @@
 {
-    "version": "4.1.119",
+    "version": "4.1.120",
     "description": "The Glacier module of AWS Tools for PowerShell lets developers and administrators manage Amazon Glacier from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.glacier.4.1.119.nupkg",
-    "hash": "cec2958a5366d29babdf2049ff6e902db85a3eb6d1b49b4ffe493d88c5270543",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.glacier.4.1.120.nupkg",
+    "hash": "771df922f0a0de208cf7f4ee5b0b4164f39379f4cfd054ac31ad4da264a3264e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Glacier"
