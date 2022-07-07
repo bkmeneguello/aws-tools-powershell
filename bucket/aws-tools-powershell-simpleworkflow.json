@@ -1,10 +1,10 @@
 {
-    "version": "4.1.119",
+    "version": "4.1.120",
     "description": "The SimpleWorkflow module of AWS Tools for PowerShell lets developers and administrators manage AWS Simple Workflow Service (SWF) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simpleworkflow.4.1.119.nupkg",
-    "hash": "febb9f84d18b907457aaabd6810089d46340084dad42d8b0cf068d1a2ea43f6e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simpleworkflow.4.1.120.nupkg",
+    "hash": "589287ef03c85bc499d626623e3cb61da287ee05b31b0ebe8143a8bd502cd21e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SimpleWorkflow"
