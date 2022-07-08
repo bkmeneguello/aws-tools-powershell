@@ -1,10 +1,10 @@
 {
-    "version": "4.1.120",
+    "version": "4.1.121",
     "description": "The WAF module of AWS Tools for PowerShell lets developers and administrators manage AWS WAF from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.waf.4.1.120.nupkg",
-    "hash": "27beb2e1d5bc8429197dd338758bcebaa1710c20c4ab79ea484d392d000dbae5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.waf.4.1.121.nupkg",
+    "hash": "8c83511c52820188a9ef7311adac32959834e4b4e5e11350ddd6bddc811a624c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.WAF"
