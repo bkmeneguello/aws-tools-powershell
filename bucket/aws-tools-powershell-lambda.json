@@ -1,10 +1,10 @@
 {
-    "version": "4.1.122",
+    "version": "4.1.123",
     "description": "The Lambda module of AWS Tools for PowerShell lets developers and administrators manage AWS Lambda from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lambda.4.1.122.nupkg",
-    "hash": "39df7d669fd279aea8e6e43b3ad6ca04289fe0e80cb64c00843ac43076eb7f75",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.lambda.4.1.123.nupkg",
+    "hash": "5a9ca2ebce13c53d13cdd912e3700bd647a84330348df31b0a01f5ed8f715941",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Lambda"
