@@ -1,10 +1,10 @@
 {
-    "version": "4.1.122",
+    "version": "4.1.123",
     "description": "The DocDB module of AWS Tools for PowerShell lets developers and administrators manage Amazon DocumentDB (with MongoDB compatibility) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.docdb.4.1.122.nupkg",
-    "hash": "38b99beeedd99c1b442d37724f6c2d75e07456600b413d6e7c9622664e477944",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.docdb.4.1.123.nupkg",
+    "hash": "74c6ecde0af701d811df1a8eb51cc133e88974b75db29914e2a0d8b9b784a458",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DocDB"
