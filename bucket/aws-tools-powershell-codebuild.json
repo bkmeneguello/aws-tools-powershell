@@ -1,10 +1,10 @@
 {
-    "version": "4.1.122",
+    "version": "4.1.123",
     "description": "The CodeBuild module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeBuild from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codebuild.4.1.122.nupkg",
-    "hash": "858223d4b5a82383b6b076b59c79e1ba1047d7ce42fe7cb68ee226cd4718d32e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codebuild.4.1.123.nupkg",
+    "hash": "a1c2a70f41eee6570a0d64c19080088c6f16e712ce1573ea2938432e99bf72e1",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeBuild"
