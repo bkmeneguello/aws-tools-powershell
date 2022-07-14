@@ -1,10 +1,10 @@
 {
-    "version": "4.1.124",
+    "version": "4.1.125",
     "description": "The CodeStar module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeStar from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codestar.4.1.124.nupkg",
-    "hash": "810c66293be36a47aec9fc517604bdb3ebf237420c592a5aa700141609cc10b0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codestar.4.1.125.nupkg",
+    "hash": "45d4417f7c5a93b7387fe34eba93c220c83525e5bbe7e1891f5c403380b73fd3",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeStar"
