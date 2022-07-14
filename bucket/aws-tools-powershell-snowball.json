@@ -1,10 +1,10 @@
 {
-    "version": "4.1.124",
+    "version": "4.1.125",
     "description": "The Snowball module of AWS Tools for PowerShell lets developers and administrators manage AWS Import/Export Snowball from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.snowball.4.1.124.nupkg",
-    "hash": "c898ceeec1f293f698ce57c3f1cf1032123c0fada4be211dd85a68c12e6c8bc5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.snowball.4.1.125.nupkg",
+    "hash": "bbb8bf192cdfba354e7e1ab217ecd6c89aea23f5eec9a0ff602c674c00aae0b3",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Snowball"
