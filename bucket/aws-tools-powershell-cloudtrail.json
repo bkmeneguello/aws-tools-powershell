@@ -1,10 +1,10 @@
 {
-    "version": "4.1.128",
+    "version": "4.1.129",
     "description": "The CloudTrail module of AWS Tools for PowerShell lets developers and administrators manage AWS CloudTrail from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudtrail.4.1.128.nupkg",
-    "hash": "30ed5223f253f48a99add7a6590245a9340d847f3cb09bfcd4407e68691b6ffb",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudtrail.4.1.129.nupkg",
+    "hash": "0cbc00396b1405595504b317b54b2c088893c92d5865525e91096480f2036b17",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudTrail"
