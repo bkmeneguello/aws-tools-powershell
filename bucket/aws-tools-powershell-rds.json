@@ -1,10 +1,10 @@
 {
-    "version": "4.1.129",
+    "version": "4.1.131",
     "description": "The RDS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Relational Database Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.rds.4.1.129.nupkg",
-    "hash": "cfed57ed913a21de500d6d647c301601b7dd7e7c05651eadd61bb489053470a8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.rds.4.1.131.nupkg",
+    "hash": "b186b62ffd8b0c14395f82c18128ff0a10e19e3eb5adbc8de4184c53bda1923b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.RDS"
