@@ -1,10 +1,10 @@
 {
-    "version": "4.1.129",
+    "version": "4.1.131",
     "description": "The StepFunctions module of AWS Tools for PowerShell lets developers and administrators manage AWS Step Functions from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.stepfunctions.4.1.129.nupkg",
-    "hash": "5835116148fb766ee7dc5987c8bd443c27dcf879c8ef05c7bbdd8d27c630cc81",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.stepfunctions.4.1.131.nupkg",
+    "hash": "aca9cad95f5eefc31a3d2980f050ae0630b7a7f3441f0d783e36fff86f0ce83b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.StepFunctions"
