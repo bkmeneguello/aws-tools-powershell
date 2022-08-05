@@ -1,10 +1,10 @@
 {
-    "version": "4.1.140",
+    "version": "4.1.141",
     "description": "The ApplicationInsights module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch Application Insights from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.applicationinsights.4.1.140.nupkg",
-    "hash": "6d457f55ac9b5960bbaf257d67291ac53283e5513e5c143e70928c3986351e34",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.applicationinsights.4.1.141.nupkg",
+    "hash": "8e9e382d04c4cd7f76db1ef729760fc02f03e43347783e3312f7bf1579f6fec6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ApplicationInsights"
