@@ -1,10 +1,10 @@
 {
-    "version": "4.1.140",
+    "version": "4.1.141",
     "description": "The WorkLink module of AWS Tools for PowerShell lets developers and administrators manage Amazon WorkLink from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.worklink.4.1.140.nupkg",
-    "hash": "2e751da339cd40a726040e8e3f659e246dd404266d310568580cc1a01153fba2",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.worklink.4.1.141.nupkg",
+    "hash": "e1d5aefef753b7187d7f5d2e111475ba3bb6b81784d4875d0ccf61a530dd5e2b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.WorkLink"
