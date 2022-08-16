@@ -1,10 +1,10 @@
 {
-    "version": "4.1.146",
+    "version": "4.1.147",
     "description": "The ResourceGroups module of AWS Tools for PowerShell lets developers and administrators manage AWS Resource Groups from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.resourcegroups.4.1.146.nupkg",
-    "hash": "f5432b2a928242d1f4a5848e069b6470c5ed4dfb7961069bb91dd30bbcff45bf",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.resourcegroups.4.1.147.nupkg",
+    "hash": "cd45eb5fd5f5227b276f22101f8417a29099ccdd57c287799e1536fb9d636b97",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ResourceGroups"
