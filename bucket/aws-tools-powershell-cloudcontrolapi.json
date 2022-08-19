@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The CloudControlApi module of AWS Tools for PowerShell lets developers and administrators manage AWS Cloud Control API from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudcontrolapi.4.1.148.nupkg",
-    "hash": "0829eedc5896562e61cd4e659121e35d5d5e5cf1150b5de22d80cf0b73253159",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudcontrolapi.4.1.150.nupkg",
+    "hash": "7f5f879bf6ef1d36a35ad120a5bdc645d17de3ffac333e3ce4fb1727b94bc240",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudControlApi"
