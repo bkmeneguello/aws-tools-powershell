@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The Rekognition module of AWS Tools for PowerShell lets developers and administrators manage Amazon Rekognition from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.rekognition.4.1.148.nupkg",
-    "hash": "b014fc0f02060cd5263f363126ddbeda44a35ccc70b1ca554ab1defb949a005a",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.rekognition.4.1.150.nupkg",
+    "hash": "4cd6ba9826302b85a970528074a72b8f818935b8e2cc2481e74b9b52c3f4651c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Rekognition"
