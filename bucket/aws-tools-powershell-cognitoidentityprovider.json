@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The CognitoIdentityProvider module of AWS Tools for PowerShell lets developers and administrators manage Amazon Cognito Identity Provider from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cognitoidentityprovider.4.1.148.nupkg",
-    "hash": "043b6d1e5e5c994ea23ad4a935ae69aa25933b704c2c3df225a86dcb63281bb5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cognitoidentityprovider.4.1.150.nupkg",
+    "hash": "fe5879f90932298d474ecae42d8b7c88cd7320cd875aec2da917c7b3ef8afd0a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CognitoIdentityProvider"
