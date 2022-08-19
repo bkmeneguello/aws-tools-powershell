@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The Pinpoint module of AWS Tools for PowerShell lets developers and administrators manage Amazon Pinpoint from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pinpoint.4.1.148.nupkg",
-    "hash": "03cf6a1c6b3dabb47f0a4e30e6b1dab168034468c98fa84025dc7eb5bd768e5f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pinpoint.4.1.150.nupkg",
+    "hash": "cf02ea9a8396aaba65fcf0e0c3f455877377fd3ab715324d8a3bd08265323c8c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Pinpoint"
