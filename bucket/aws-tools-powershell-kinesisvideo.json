@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The KinesisVideo module of AWS Tools for PowerShell lets developers and administrators manage Amazon Kinesis Video Streams from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisvideo.4.1.148.nupkg",
-    "hash": "4345df7f5b950a021336d03e609eaf05ac62c224cb0ecbe9c28f091846c99b3b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisvideo.4.1.150.nupkg",
+    "hash": "51ff5d575acc22e641e75ecc0ffac04e276fd887dee5f133df2b7f17c9c2525d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.KinesisVideo"
