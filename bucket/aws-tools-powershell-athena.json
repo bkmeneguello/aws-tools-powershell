@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The Athena module of AWS Tools for PowerShell lets developers and administrators manage Amazon Athena from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.athena.4.1.148.nupkg",
-    "hash": "c06fff5ca8515efeca1d1072148a1e1dd2c983da92b0b99a512dcfa571473a55",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.athena.4.1.150.nupkg",
+    "hash": "757ab774799eee1a80b3781651a19bd83a9c24a0b726927fa2a80822cae00197",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Athena"
