@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The ElasticFileSystem module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic File System from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticfilesystem.4.1.148.nupkg",
-    "hash": "9b6708c84c6986e024a75368fd02036d521cca88acff656dbd55c771610c944d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticfilesystem.4.1.150.nupkg",
+    "hash": "b5fa355e361d9f779bc470a655080fc5aa6b98d74dc0f41ce499ebe289e4c5cb",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ElasticFileSystem"
