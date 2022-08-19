@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The ManagedBlockchain module of AWS Tools for PowerShell lets developers and administrators manage Amazon Managed Blockchain from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.managedblockchain.4.1.148.nupkg",
-    "hash": "b4b491469f4bfa1532d7765e8a01560f83ccb8349b2acadeb830393b3fc3d133",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.managedblockchain.4.1.150.nupkg",
+    "hash": "a40cd36ee534def2ef955de421112c737789cb859ea7c0b8b5d248774325241d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ManagedBlockchain"
