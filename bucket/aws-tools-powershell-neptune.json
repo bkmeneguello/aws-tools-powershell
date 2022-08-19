@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The Neptune module of AWS Tools for PowerShell lets developers and administrators manage Amazon Neptune from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.neptune.4.1.148.nupkg",
-    "hash": "bd51cca7f24930586f265199d6ae82a86776eced4749b1091bcf732b8f3ebdeb",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.neptune.4.1.150.nupkg",
+    "hash": "7b6d09d3a184b9bfed8da2a3f36c89bc5c73f50ace6c7fe8095ccdc59633d68a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Neptune"
