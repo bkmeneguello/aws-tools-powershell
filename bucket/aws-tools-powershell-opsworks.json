@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The OpsWorks module of AWS Tools for PowerShell lets developers and administrators manage AWS OpsWorks from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.opsworks.4.1.148.nupkg",
-    "hash": "7289a0e54335517f64f576b82872a783e44424709a127cce0ca1dbaf9f3c0c64",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.opsworks.4.1.150.nupkg",
+    "hash": "9a43b1e54c218b9bbead0864564b9261b078a4bf4ccc9f6a8163a768c45cbbe6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.OpsWorks"
