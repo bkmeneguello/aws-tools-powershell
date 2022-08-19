@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The CognitoSync module of AWS Tools for PowerShell lets developers and administrators manage Amazon Cognito Sync from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cognitosync.4.1.148.nupkg",
-    "hash": "bf87381be4de1418cfa3d4f1755cae807e39d2deb5565b1e6dbca463fa363c7b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cognitosync.4.1.150.nupkg",
+    "hash": "24d856e523a82cb8e14f2c4adbbb91e4736a25796689fb1b43cc66be73bb2ca9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CognitoSync"
