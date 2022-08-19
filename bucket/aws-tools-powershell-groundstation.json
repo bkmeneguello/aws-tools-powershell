@@ -1,10 +1,10 @@
 {
-    "version": "4.1.148",
+    "version": "4.1.150",
     "description": "The GroundStation module of AWS Tools for PowerShell lets developers and administrators manage AWS Ground Station from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.groundstation.4.1.148.nupkg",
-    "hash": "8c004281039afda31fbf33033a9217bf5a4ad654903ebea5d0c8cc0daaa7d98a",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.groundstation.4.1.150.nupkg",
+    "hash": "f4432c1a60858cda36535f0478eacca3428e1d05eb9a5d6789947983c3ae964f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.GroundStation"
