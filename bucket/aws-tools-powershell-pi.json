@@ -1,10 +1,10 @@
 {
-    "version": "4.1.170",
+    "version": "4.1.171",
     "description": "The PI module of AWS Tools for PowerShell lets developers and administrators manage AWS Performance Insights from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pi.4.1.170.nupkg",
-    "hash": "3159ff8dd856538855970507d2ec530b835211c7b58cb7776f05a55a5d7bc20c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.pi.4.1.171.nupkg",
+    "hash": "14c9723c883ab3052a7b2e914e51ef6ec0891ec554a48e35fc0856342aac120f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.PI"
