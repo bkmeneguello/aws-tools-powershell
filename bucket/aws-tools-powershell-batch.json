@@ -1,10 +1,10 @@
 {
-    "version": "4.1.171",
+    "version": "4.1.172",
     "description": "The Batch module of AWS Tools for PowerShell lets developers and administrators manage AWS Batch from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.batch.4.1.171.nupkg",
-    "hash": "4a8f332e573ca02be6d0a25454a7f33e61e95de4afb10ca272aeeaea4385daef",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.batch.4.1.172.nupkg",
+    "hash": "1b2818fb2348f16658b94cdc7a245b746db1dc9b3e5fc432da5b645c3634414d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Batch"
