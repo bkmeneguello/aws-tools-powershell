@@ -1,10 +1,10 @@
 {
-    "version": "4.1.172",
+    "version": "4.1.173",
     "description": "The Shield module of AWS Tools for PowerShell lets developers and administrators manage AWS Shield from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.shield.4.1.172.nupkg",
-    "hash": "36f835d112cc8cbacfccbcc25867f01fffaa0308c70dde2dff62a797db74a0fd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.shield.4.1.173.nupkg",
+    "hash": "a1e33736bad75387bb501cd559cd1977413366cb9c88dfc4f9430c3d1f791b8a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Shield"
