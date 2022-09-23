@@ -1,10 +1,10 @@
 {
-    "version": "4.1.173",
+    "version": "4.1.174",
     "description": "The EC2InstanceConnect module of AWS Tools for PowerShell lets developers and administrators manage AWS EC2 Instance Connect from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ec2instanceconnect.4.1.173.nupkg",
-    "hash": "76563ce74924561bdec6f343070bffc029928ab6876ab2fe6badea9879673f4d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ec2instanceconnect.4.1.174.nupkg",
+    "hash": "3e5dbf5389fedf54915ce6647475d8fc3f405af7635646b86a81fb730ee06d98",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.EC2InstanceConnect"
