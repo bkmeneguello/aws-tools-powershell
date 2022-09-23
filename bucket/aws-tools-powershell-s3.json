@@ -1,10 +1,10 @@
 {
-    "version": "4.1.173",
+    "version": "4.1.174",
     "description": "The S3 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Storage Service (S3) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.s3.4.1.173.nupkg",
-    "hash": "e1b848e5a7d3e69d0fc3b22714afce3420d957de5903d6915e0fbea3927247e8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.s3.4.1.174.nupkg",
+    "hash": "5527a541d37197b2428402ae288c5745d08de31da9048ac51ecfd27544604b46",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.S3"
