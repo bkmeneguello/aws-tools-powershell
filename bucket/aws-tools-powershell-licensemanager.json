@@ -1,10 +1,10 @@
 {
-    "version": "4.1.179",
+    "version": "4.1.180",
     "description": "The LicenseManager module of AWS Tools for PowerShell lets developers and administrators manage AWS License Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.licensemanager.4.1.179.nupkg",
-    "hash": "2e9145afc2743f300438588fea0b564bb278893d32906c07cd62548010aae4c2",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.licensemanager.4.1.180.nupkg",
+    "hash": "bcd0cd5b37e9392bf3073924fc59362d4f55dd7d7a59445e19fbc595d3a93f11",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.LicenseManager"
