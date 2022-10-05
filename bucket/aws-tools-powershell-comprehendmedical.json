@@ -1,10 +1,10 @@
 {
-    "version": "4.1.180",
+    "version": "4.1.181",
     "description": "The ComprehendMedical module of AWS Tools for PowerShell lets developers and administrators manage AWS Comprehend Medical from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.comprehendmedical.4.1.180.nupkg",
-    "hash": "0dfbd9133458e5560204867909aaca9a8e2fc53838429a7112ed34fc01c94b26",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.comprehendmedical.4.1.181.nupkg",
+    "hash": "da35c8270512ec7d44ca11135f2cf656b6ecacd85b0cd8db1cbc19506c19109a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ComprehendMedical"
