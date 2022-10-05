@@ -1,10 +1,10 @@
 {
-    "version": "4.1.180",
+    "version": "4.1.181",
     "description": "The DynamoDBv2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon DynamoDB from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dynamodbv2.4.1.180.nupkg",
-    "hash": "34536b8bc71354dd982f0d01cd1d0ca979a770a54ef4ffa5e98b6049d08f5e5f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dynamodbv2.4.1.181.nupkg",
+    "hash": "adc2a8e78a0614b39f82ec79ee60c4375ee683c2d8bb0402479a053de3e8d1b7",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DynamoDBv2"
