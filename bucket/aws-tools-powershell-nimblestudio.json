@@ -1,10 +1,10 @@
 {
-    "version": "4.1.181",
+    "version": "4.1.182",
     "description": "The NimbleStudio module of AWS Tools for PowerShell lets developers and administrators manage Amazon Nimble Studio from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.nimblestudio.4.1.181.nupkg",
-    "hash": "fe3a3a988391c16d8465934369ce124976b2456ec7a0b944e9b65b1eeebfd89a",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.nimblestudio.4.1.182.nupkg",
+    "hash": "c58c5be8529172032766a9600f58203989aeac0ccfb960807351e29ce958b380",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.NimbleStudio"
