@@ -1,10 +1,10 @@
 {
-    "version": "4.1.192",
+    "version": "4.1.193",
     "description": "The EventBridge module of AWS Tools for PowerShell lets developers and administrators manage Amazon EventBridge from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.eventbridge.4.1.192.nupkg",
-    "hash": "a572acc8a0c99681194c4bef543189e3e7406b7e7d37863cce4aef05fc43ade9",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.eventbridge.4.1.193.nupkg",
+    "hash": "aa344e6dd9a7dc2fa8430edb70354aba33889af981e15b096367f15c14eb1f1f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.EventBridge"
