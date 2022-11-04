@@ -1,10 +1,10 @@
 {
-    "version": "4.1.199",
+    "version": "4.1.200",
     "description": "The CustomerProfiles module of AWS Tools for PowerShell lets developers and administrators manage Amazon Connect Customer Profiles from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.customerprofiles.4.1.199.nupkg",
-    "hash": "e4bbb58efa62f8b28c7aca21ba56b75993644b9248a139947c9292627e3904fd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.customerprofiles.4.1.200.nupkg",
+    "hash": "d4c28be9bca483425bfab442b165d639c05f729831855c90ce208fa9fe07c095",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CustomerProfiles"
