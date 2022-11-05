@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The AppStream module of AWS Tools for PowerShell lets developers and administrators manage Amazon AppStream from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appstream.4.1.200.nupkg",
-    "hash": "e1bf67b0b268e7ced0e434c6963f97423b550ece1ce5703bbcd9e4b32ddd2898",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appstream.4.1.201.nupkg",
+    "hash": "a4a92a1f73e6c3f629bb41620a2ab7efa3d1768f048d2e686f628a1a4a74dfc7",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AppStream"
