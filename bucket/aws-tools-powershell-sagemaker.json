@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The SageMaker module of AWS Tools for PowerShell lets developers and administrators manage Amazon SageMaker Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemaker.4.1.200.nupkg",
-    "hash": "33f01447a152893cab86394051e767632f7956b84a89ad229ec6a78f38bf082d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemaker.4.1.201.nupkg",
+    "hash": "2d54cbe46ba6f0074b7c86e0482d4ffa02b0386a0d0d08dca528a0bec740340c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SageMaker"
