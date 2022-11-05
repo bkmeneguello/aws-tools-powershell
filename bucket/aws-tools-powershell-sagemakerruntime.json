@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The SageMakerRuntime module of AWS Tools for PowerShell lets developers and administrators manage Amazon SageMaker Runtime from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemakerruntime.4.1.200.nupkg",
-    "hash": "b13480c462c8949301ac9697e121f16f62bd764e3d1d9dd3fc448757e0e69755",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sagemakerruntime.4.1.201.nupkg",
+    "hash": "56fbc5397313d67b5f820332ea3598ffc585dbf75b0bbb7dfd0ead1a26eb5dfa",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SageMakerRuntime"
