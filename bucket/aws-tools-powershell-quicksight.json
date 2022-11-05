@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The QuickSight module of AWS Tools for PowerShell lets developers and administrators manage Amazon QuickSight from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.quicksight.4.1.200.nupkg",
-    "hash": "73aa94c71bb47c561b86281c7203522c4cdeabe2d513d2acf06af6563b80379d",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.quicksight.4.1.201.nupkg",
+    "hash": "abbb538d38eff9938336dc6953c9d97c0a7203cfe25b59577dc58799bde9c8e6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.QuickSight"
