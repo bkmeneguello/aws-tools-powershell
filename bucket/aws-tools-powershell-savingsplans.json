@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The SavingsPlans module of AWS Tools for PowerShell lets developers and administrators manage AWS Savings Plans from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.savingsplans.4.1.200.nupkg",
-    "hash": "faa06fc202d896f09878e149c20afc2c6bc737ae1d25907bc9f76e9788783a4b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.savingsplans.4.1.201.nupkg",
+    "hash": "a1ce4861e52edb492598181e19a94bf18897ce0d932d8bb83dcc08581d78e2ce",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SavingsPlans"
