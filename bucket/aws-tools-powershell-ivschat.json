@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The Ivschat module of AWS Tools for PowerShell lets developers and administrators manage Amazon Interactive Video Service Chat from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ivschat.4.1.200.nupkg",
-    "hash": "692033e5651d03a10c1086fde31de942987efe64244b7d2033e84c5d610864f2",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ivschat.4.1.201.nupkg",
+    "hash": "b864454e22a1196bb70226f9ede2117baf338ef1691d62d26c14f5951c4aaaf0",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Ivschat"
