@@ -1,10 +1,10 @@
 {
-    "version": "4.1.200",
+    "version": "4.1.201",
     "description": "The FraudDetector module of AWS Tools for PowerShell lets developers and administrators manage Amazon Fraud Detector from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.frauddetector.4.1.200.nupkg",
-    "hash": "684cb94cc45c29b4f5e795861ff01463b55d3f26d4ce4b8385dc82032a04f7a7",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.frauddetector.4.1.201.nupkg",
+    "hash": "78c3c23fffd4225d08d05c365d759970639cd4947cb7a9c90245e5b5b1f6322b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.FraudDetector"
