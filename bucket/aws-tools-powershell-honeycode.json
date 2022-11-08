@@ -1,10 +1,10 @@
 {
-    "version": "4.1.201",
+    "version": "4.1.202",
     "description": "The Honeycode module of AWS Tools for PowerShell lets developers and administrators manage Amazon Honeycode from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.honeycode.4.1.201.nupkg",
-    "hash": "542d2ebb9aa9b6f7f006fcb299e40ba1f71211ae3e5695b60353249b5b08ef11",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.honeycode.4.1.202.nupkg",
+    "hash": "da7b9d2d10907aad95f9dcc7793aeaa79369857904fbb2baaf13b90794532118",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Honeycode"
