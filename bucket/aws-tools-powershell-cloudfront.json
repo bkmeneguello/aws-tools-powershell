@@ -1,10 +1,10 @@
 {
-    "version": "4.1.201",
+    "version": "4.1.202",
     "description": "The CloudFront module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudFront from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudfront.4.1.201.nupkg",
-    "hash": "a9ef1884b371affcbc267ff0aabc811768dfdfeea2937e419e6b921a87788293",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudfront.4.1.202.nupkg",
+    "hash": "1cb7114c69ec2aa64bcaf2451c4d4939efd9c06214d023f9862695320d9e79c9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudFront"
