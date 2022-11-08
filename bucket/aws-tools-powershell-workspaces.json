@@ -1,10 +1,10 @@
 {
-    "version": "4.1.201",
+    "version": "4.1.202",
     "description": "The WorkSpaces module of AWS Tools for PowerShell lets developers and administrators manage Amazon WorkSpaces from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.workspaces.4.1.201.nupkg",
-    "hash": "945b13af305dcccb0af1ae2d6b65dc5e3f720dcd86ab66754083353a7cdb81af",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.workspaces.4.1.202.nupkg",
+    "hash": "285625178b316ec0615455d460021267c22585fa13c6654bd483238dd735b46b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.WorkSpaces"
