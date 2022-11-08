@@ -1,10 +1,10 @@
 {
-    "version": "4.1.201",
+    "version": "4.1.202",
     "description": "The ElastiCache module of AWS Tools for PowerShell lets developers and administrators manage Amazon ElastiCache from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticache.4.1.201.nupkg",
-    "hash": "ce51cb14ab89eab7f2c969c751cd70b2d75879fc0ef9487021db7a45dd5c2839",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticache.4.1.202.nupkg",
+    "hash": "56f27c2a6aaf6af2acd88e1eba6562fbf26bb713f917c67e7d399ae2130910a9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ElastiCache"
