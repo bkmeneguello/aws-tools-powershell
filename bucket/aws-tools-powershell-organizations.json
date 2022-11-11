@@ -1,10 +1,10 @@
 {
-    "version": "4.1.204",
+    "version": "4.1.205",
     "description": "The Organizations module of AWS Tools for PowerShell lets developers and administrators manage AWS Organizations from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.organizations.4.1.204.nupkg",
-    "hash": "e63f1d32f1a7221175011b7c3b3b601c48f19ecf82493fcbf6c02c599caf0125",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.organizations.4.1.205.nupkg",
+    "hash": "cc7f4a0b089016e5ab02af9937ca600744cf0d4edbad178cb939c74e17743800",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Organizations"
