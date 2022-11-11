@@ -1,10 +1,10 @@
 {
-    "version": "4.1.204",
+    "version": "4.1.205",
     "description": "The Budgets module of AWS Tools for PowerShell lets developers and administrators manage AWS Budgets from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.budgets.4.1.204.nupkg",
-    "hash": "3e9ca49222dd33e889b72afd5d0d5d8fb41d42b90c8f9853f192ca6fb95f04f7",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.budgets.4.1.205.nupkg",
+    "hash": "ab85d24f0346ff0d0011ef5f5f90cc576890686bd262ce13a55bb0a38e01165a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Budgets"
