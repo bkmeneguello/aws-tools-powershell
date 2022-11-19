@@ -1,10 +1,10 @@
 {
-    "version": "4.1.210",
+    "version": "4.1.211",
     "description": "The CodeDeploy module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeDeploy from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codedeploy.4.1.210.nupkg",
-    "hash": "f8a0032e13a01ed2bd934ca6584d1ea59ce65109d30c306cde98dd3de519ab7c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codedeploy.4.1.211.nupkg",
+    "hash": "86f2e2a39e2b4442428bd604088074c017007f13a6c8cf85fac23e4120e2a12c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeDeploy"
