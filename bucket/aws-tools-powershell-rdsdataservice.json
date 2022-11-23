@@ -1,10 +1,10 @@
 {
-    "version": "4.1.211",
+    "version": "4.1.213",
     "description": "The RDSDataService module of AWS Tools for PowerShell lets developers and administrators manage AWS RDS DataService from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.rdsdataservice.4.1.211.nupkg",
-    "hash": "d97f8b6f9a267ca2bd334863abd7718aede1f0ef6593031f8cbb65c5c5837fb0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.rdsdataservice.4.1.213.nupkg",
+    "hash": "b8f1a50bf59da183f2772d497ac670fe25abc50f710e773e6091dacdf5dbb7bc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.RDSDataService"
