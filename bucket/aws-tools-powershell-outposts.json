@@ -1,10 +1,10 @@
 {
-    "version": "4.1.211",
+    "version": "4.1.213",
     "description": "The Outposts module of AWS Tools for PowerShell lets developers and administrators manage AWS Outposts from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.outposts.4.1.211.nupkg",
-    "hash": "99c1f268bec5a69957274d739c407555a894c111c7a0f53bbeab6668efa9b9bf",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.outposts.4.1.213.nupkg",
+    "hash": "d42db9a0596ac527ce7968dce33d46062c889a04d98b81cb4227c7582a69052e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Outposts"
