@@ -1,10 +1,10 @@
 {
-    "version": "4.1.211",
+    "version": "4.1.213",
     "description": "The GlueDataBrew module of AWS Tools for PowerShell lets developers and administrators manage AWS Glue DataBrew from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.gluedatabrew.4.1.211.nupkg",
-    "hash": "ceba9fefccf303f6a3ef3418a986081d8d2e0362b3c06a6f7deb43a5d4d9c059",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.gluedatabrew.4.1.213.nupkg",
+    "hash": "c13d84c6994e21f7ea975b3546495ba89f98336fcbd10291fbe01164b54b295c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.GlueDataBrew"
