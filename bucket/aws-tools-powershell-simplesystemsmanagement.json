@@ -1,10 +1,10 @@
 {
-    "version": "4.1.211",
+    "version": "4.1.213",
     "description": "The SimpleSystemsManagement module of AWS Tools for PowerShell lets developers and administrators manage AWS Systems Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simplesystemsmanagement.4.1.211.nupkg",
-    "hash": "513af59e5d46cdcd4c1a37d064a094e861def21d7672487e7972911978558f91",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simplesystemsmanagement.4.1.213.nupkg",
+    "hash": "0920d51ee5ebd28ff3c9f15b376d6d4ed643fc1ed6c82a3d258a2e3e53d6c4b4",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SimpleSystemsManagement"
