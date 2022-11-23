@@ -1,10 +1,10 @@
 {
-    "version": "4.1.211",
+    "version": "4.1.213",
     "description": "The GlobalAccelerator module of AWS Tools for PowerShell lets developers and administrators manage AWS Global Accelerator from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.globalaccelerator.4.1.211.nupkg",
-    "hash": "a21dc00e746f61bb790bdf4ddc56877669aee59d82263fcd50c5dc046f86d897",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.globalaccelerator.4.1.213.nupkg",
+    "hash": "512d80d525988bafe0ebf8c136d8b60d476efff0a4a30982831d55ffbd216b04",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.GlobalAccelerator"
