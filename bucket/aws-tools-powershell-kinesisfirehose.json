@@ -1,10 +1,10 @@
 {
-    "version": "4.1.211",
+    "version": "4.1.213",
     "description": "The KinesisFirehose module of AWS Tools for PowerShell lets developers and administrators manage Amazon Kinesis Firehose from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisfirehose.4.1.211.nupkg",
-    "hash": "7e9e64788418ba48b7992689d3c6b7c508b6690cc7a07d0e09d4712ef9d620ec",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kinesisfirehose.4.1.213.nupkg",
+    "hash": "a3bdcf0762950f112950446d3cbe6696804ca461ec1cd470691dd049034b2e7e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.KinesisFirehose"
