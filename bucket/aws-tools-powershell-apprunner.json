@@ -1,10 +1,10 @@
 {
-    "version": "4.1.219",
+    "version": "4.1.220",
     "description": "The AppRunner module of AWS Tools for PowerShell lets developers and administrators manage AWS App Runner from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.apprunner.4.1.219.nupkg",
-    "hash": "5575c5109bac19dc7acdd9ffeeba8de0b70988f49c0d9ad2e16d27ca25d925d2",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.apprunner.4.1.220.nupkg",
+    "hash": "f96d4e19f9f042d8c7b122313c21403bf5e9fe083651aa8a9bb3188c4a79c008",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AppRunner"
