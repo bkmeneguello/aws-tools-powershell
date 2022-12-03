@@ -1,10 +1,10 @@
 {
-    "version": "4.1.219",
+    "version": "4.1.220",
     "description": "The Synthetics module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch Synthetics from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.synthetics.4.1.219.nupkg",
-    "hash": "e9206b1cf4b0fec7029ce6c260af2718e467e1ddcc8feb8fb35e3b271db50165",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.synthetics.4.1.220.nupkg",
+    "hash": "45c580a941ce438d8124f0d1aeae430c52e66655a7e1c9e72f22d449839907e0",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Synthetics"
