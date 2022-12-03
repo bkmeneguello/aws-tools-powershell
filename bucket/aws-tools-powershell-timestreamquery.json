@@ -1,10 +1,10 @@
 {
-    "version": "4.1.219",
+    "version": "4.1.220",
     "description": "The TimestreamQuery module of AWS Tools for PowerShell lets developers and administrators manage Amazon Timestream Query from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.timestreamquery.4.1.219.nupkg",
-    "hash": "04bd109f6996a992378dbdd5ce3e48742a00a5ff1821f617e80436b570dbc86a",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.timestreamquery.4.1.220.nupkg",
+    "hash": "26dd7afde9194f5207bbac119c6d8a4233e3eac7e5ea4a5299240a0c89519cdd",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.TimestreamQuery"
