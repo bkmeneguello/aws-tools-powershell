@@ -1,10 +1,10 @@
 {
-    "version": "4.1.220",
+    "version": "4.1.221",
     "description": "The Connect module of AWS Tools for PowerShell lets developers and administrators manage Amazon Connect Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.connect.4.1.220.nupkg",
-    "hash": "013dbe17b2871a9c22efbbaa33528da5663299b7ed50ca1e524c6398e6dbfcc2",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.connect.4.1.221.nupkg",
+    "hash": "f389284f7b39f628fc8271fc0d0d9b3ba1c53d0fe29003fe42cfe2cc156a6a16",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Connect"
