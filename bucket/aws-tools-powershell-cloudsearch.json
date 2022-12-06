@@ -1,10 +1,10 @@
 {
-    "version": "4.1.220",
+    "version": "4.1.221",
     "description": "The CloudSearch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudSearch from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudsearch.4.1.220.nupkg",
-    "hash": "fb159f2e77a7a72e9cdd844938e441e0518bcb3d26132331fce4dd75b6c32c50",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudsearch.4.1.221.nupkg",
+    "hash": "5c9ec5a44a0e8592c74b9f8bc20bb324a995d83a19533d11734e761e608db16d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudSearch"
