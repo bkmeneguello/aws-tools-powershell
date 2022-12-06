@@ -1,10 +1,10 @@
 {
-    "version": "4.1.220",
+    "version": "4.1.221",
     "description": "The Panorama module of AWS Tools for PowerShell lets developers and administrators manage AWS Panorama from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.panorama.4.1.220.nupkg",
-    "hash": "214cb10200e24b1b12de46d24ab20e68847812a0faaa4dc07d5bfe79a8990e3c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.panorama.4.1.221.nupkg",
+    "hash": "38cc88a50c77a644075a890ece8f0cdd94134ee72137460bca18c89e927d276a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Panorama"
