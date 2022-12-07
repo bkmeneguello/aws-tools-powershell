@@ -1,10 +1,10 @@
 {
-    "version": "4.1.221",
+    "version": "4.1.222",
     "description": "The StorageGateway module of AWS Tools for PowerShell lets developers and administrators manage AWS Storage Gateway from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.storagegateway.4.1.221.nupkg",
-    "hash": "2f999a352b95d14a901e86765b1404e79d65c49a98f8ee96a255fddc744bf750",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.storagegateway.4.1.222.nupkg",
+    "hash": "2aa10540bf055a277ce69a8ba7b7fea99e660546db33a6ad769a6881e3c675b9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.StorageGateway"
