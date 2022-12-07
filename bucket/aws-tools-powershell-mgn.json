@@ -1,10 +1,10 @@
 {
-    "version": "4.1.221",
+    "version": "4.1.222",
     "description": "The Mgn module of AWS Tools for PowerShell lets developers and administrators manage Application Migration Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mgn.4.1.221.nupkg",
-    "hash": "bfc1ce2df76481d49f409f73651d315abd0029a5f7bf8d5463a225c2d2b34dfc",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mgn.4.1.222.nupkg",
+    "hash": "c36db19bf05d5852d1f8690d8d94cba6024b1b13a42c96ec4d61684d56cb1d12",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Mgn"
