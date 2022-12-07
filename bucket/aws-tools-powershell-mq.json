@@ -1,10 +1,10 @@
 {
-    "version": "4.1.221",
+    "version": "4.1.222",
     "description": "The MQ module of AWS Tools for PowerShell lets developers and administrators manage Amazon MQ from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mq.4.1.221.nupkg",
-    "hash": "b14a7f7e6fc9530229d88a6158f0f906e409c0bfb6585e0a215f71082127b97b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mq.4.1.222.nupkg",
+    "hash": "6b3ead40dab20c31230ac91f31207c45edb868388f4cded4b92f208996e1219c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MQ"
