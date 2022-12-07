@@ -1,10 +1,10 @@
 {
-    "version": "4.1.221",
+    "version": "4.1.222",
     "description": "The IVS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Interactive Video Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ivs.4.1.221.nupkg",
-    "hash": "bc053175c620974c7ca92c0bc055b032b39fcf19ca4a551a40eaebe4a18fe5f5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ivs.4.1.222.nupkg",
+    "hash": "4eca9a3888275bd85fea185ae1201fe096f897424d3639dd3d0d4c514e2edaa2",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IVS"
