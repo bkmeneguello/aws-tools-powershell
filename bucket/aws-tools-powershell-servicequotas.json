@@ -1,10 +1,10 @@
 {
-    "version": "4.1.236",
+    "version": "4.1.237",
     "description": "The ServiceQuotas module of AWS Tools for PowerShell lets developers and administrators manage AWS Service Quotas from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicequotas.4.1.236.nupkg",
-    "hash": "13d70ea15172b82c9631068bc4697d5ac80640eca3dc8bd617ddc52dec36e1dd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.servicequotas.4.1.237.nupkg",
+    "hash": "cf8ba99b0b08d5a6cbcd685a5f49f8f73f4e63b5f725fd837a72066f920ccf5e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ServiceQuotas"
