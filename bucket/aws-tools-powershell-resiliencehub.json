@@ -1,10 +1,10 @@
 {
-    "version": "4.1.238",
+    "version": "4.1.239",
     "description": "The ResilienceHub module of AWS Tools for PowerShell lets developers and administrators manage AWS Resilience Hub from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.resiliencehub.4.1.238.nupkg",
-    "hash": "5ec91ca618f39f2e26bc27aff5d6a09234d67f4f7ae2e1ac1e7ff9cc540187a1",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.resiliencehub.4.1.239.nupkg",
+    "hash": "db860f4c15f95346092ee0bb17be2062c5666b2d3d8c6d9728ab7c72a07990a0",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ResilienceHub"
