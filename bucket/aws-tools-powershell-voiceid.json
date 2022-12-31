@@ -1,10 +1,10 @@
 {
-    "version": "4.1.240",
+    "version": "4.1.241",
     "description": "The VoiceID module of AWS Tools for PowerShell lets developers and administrators manage Amazon Voice ID from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.voiceid.4.1.240.nupkg",
-    "hash": "948c63fe16fb409598b4adb687905cb49b0dfb3df948a6ca92bcd3acbef572ab",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.voiceid.4.1.241.nupkg",
+    "hash": "5b470425c833cc073347fa84b89136185bace00279831db019ffda1ea285ddf3",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.VoiceID"
