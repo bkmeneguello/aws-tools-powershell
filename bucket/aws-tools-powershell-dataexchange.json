@@ -1,10 +1,10 @@
 {
-    "version": "4.1.240",
+    "version": "4.1.241",
     "description": "The DataExchange module of AWS Tools for PowerShell lets developers and administrators manage AWS Data Exchange from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dataexchange.4.1.240.nupkg",
-    "hash": "8b6c0a766786dd8025f75e946a42f36689d56199f4061bef421a54e9b6e8a099",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dataexchange.4.1.241.nupkg",
+    "hash": "18a0b463028049022bc092dbeec97888f78b338454fc5b030788d3985ecd31f7",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DataExchange"
