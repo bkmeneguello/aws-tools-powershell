@@ -1,10 +1,10 @@
 {
-    "version": "4.1.241",
+    "version": "4.1.242",
     "description": "The CloudFormation module of AWS Tools for PowerShell lets developers and administrators manage AWS CloudFormation from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudformation.4.1.241.nupkg",
-    "hash": "2adea1e47a9047ce74d9cd1f712141d52e58ad9a6a1892d46d6c5c3447062db6",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudformation.4.1.242.nupkg",
+    "hash": "ec6c6beb6450c9062733b4bc0cc848f8c892b1a51d262f5b09b1410829027ec4",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudFormation"
