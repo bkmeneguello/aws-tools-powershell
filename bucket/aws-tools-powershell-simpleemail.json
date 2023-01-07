@@ -1,10 +1,10 @@
 {
-    "version": "4.1.244",
+    "version": "4.1.245",
     "description": "The SimpleEmail module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Email Service (SES) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simpleemail.4.1.244.nupkg",
-    "hash": "cc013275e5bba4433c57b3895796acfd057431a65a539aeafa716f5a646b77f5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simpleemail.4.1.245.nupkg",
+    "hash": "d8a4a96be010a6b931f954d671b5ba0d69664fe5f7a7ff94eaa66b060e13c468",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SimpleEmail"
