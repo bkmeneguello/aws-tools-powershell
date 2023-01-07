@@ -1,10 +1,10 @@
 {
-    "version": "4.1.244",
+    "version": "4.1.245",
     "description": "The CloudDirectory module of AWS Tools for PowerShell lets developers and administrators manage Amazon Cloud Directory from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.clouddirectory.4.1.244.nupkg",
-    "hash": "f20166d3863bb51238aca2902c3a03262de8446d4cc192169b96759827b052cd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.clouddirectory.4.1.245.nupkg",
+    "hash": "f30a1ba1bb9a78b13d0b29f3527545309552d25cf19188f7fa78ddf8d439e476",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudDirectory"
