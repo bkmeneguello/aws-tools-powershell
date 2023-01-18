@@ -1,10 +1,10 @@
 {
-    "version": "4.1.250",
+    "version": "4.1.251",
     "description": "The ElasticInference module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Inference from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticinference.4.1.250.nupkg",
-    "hash": "1770dbbe3e9181cb1b92c130d50ce45be4c5b0cd0ad0420f7d62f92190b1b0a1",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticinference.4.1.251.nupkg",
+    "hash": "6df0cb76f80a615cb8dc477e45abe16d0f8bd96b6ec740f9c21d061d8b3685a8",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ElasticInference"
