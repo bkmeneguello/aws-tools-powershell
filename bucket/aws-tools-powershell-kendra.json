@@ -1,10 +1,10 @@
 {
-    "version": "4.1.252",
+    "version": "4.1.254",
     "description": "The Kendra module of AWS Tools for PowerShell lets developers and administrators manage Amazon Kendra from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kendra.4.1.252.nupkg",
-    "hash": "dd2bd3ac448db6292f95b10b3d532736b2e7b059ec4e676f8ae0b7c9574673fc",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kendra.4.1.254.nupkg",
+    "hash": "520dee76de80a943f0bdb75fa0a9f113b72c862c7ffcb5e848cb0b13ec73f4aa",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Kendra"
