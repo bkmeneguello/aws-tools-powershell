@@ -1,10 +1,10 @@
 {
-    "version": "4.1.254",
+    "version": "4.1.255",
     "description": "The CostExplorer module of AWS Tools for PowerShell lets developers and administrators manage AWS Cost Explorer from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.costexplorer.4.1.254.nupkg",
-    "hash": "64cd951f740693a600d3e0ac88e8a178aa3eb3ab81c367a1728231095c412a1e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.costexplorer.4.1.255.nupkg",
+    "hash": "e1c92b53e95b7e03ccc4be1100e1ce8b4b621d80892622473f345a7ec0255b2a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CostExplorer"
