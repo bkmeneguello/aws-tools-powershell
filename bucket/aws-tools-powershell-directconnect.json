@@ -1,10 +1,10 @@
 {
-    "version": "4.1.254",
+    "version": "4.1.255",
     "description": "The DirectConnect module of AWS Tools for PowerShell lets developers and administrators manage AWS Direct Connect from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.directconnect.4.1.254.nupkg",
-    "hash": "6e467a42d162d1c7ec0e5c4981423b08377be89b225bcce67bf2a7f6d3ccc78c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.directconnect.4.1.255.nupkg",
+    "hash": "e9d25952f82c8315401a2c342968f0b3fdee74db82b2118e73e605af1941c1fc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DirectConnect"
