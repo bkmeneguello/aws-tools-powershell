@@ -1,10 +1,10 @@
 {
-    "version": "4.1.264",
+    "version": "4.1.265",
     "description": "The DAX module of AWS Tools for PowerShell lets developers and administrators manage Amazon DynamoDB Accelerator (DAX) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dax.4.1.264.nupkg",
-    "hash": "dad0d6649412371d509a6899124779da830437720a0f1b085515cd305e4ff820",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dax.4.1.265.nupkg",
+    "hash": "3b39cef9d17000dc1bebabb62524670d164aa4bb1b290d888d8df9eda7d5937e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DAX"
