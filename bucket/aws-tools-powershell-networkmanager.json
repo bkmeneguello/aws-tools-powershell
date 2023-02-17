@@ -1,10 +1,10 @@
 {
-    "version": "4.1.272",
+    "version": "4.1.273",
     "description": "The NetworkManager module of AWS Tools for PowerShell lets developers and administrators manage AWS Network Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.networkmanager.4.1.272.nupkg",
-    "hash": "0206a8595043b793e0b722bfa105eb1ee7e2c30559b85c52430a42a54d0899dd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.networkmanager.4.1.273.nupkg",
+    "hash": "acd78cbf45afbad6e2b379f30a8cb665ccc160c038fca174e3677aca9426fe0b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.NetworkManager"
