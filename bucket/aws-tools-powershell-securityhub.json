@@ -1,10 +1,10 @@
 {
-    "version": "4.1.278",
+    "version": "4.1.279",
     "description": "The SecurityHub module of AWS Tools for PowerShell lets developers and administrators manage AWS Security Hub from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.securityhub.4.1.278.nupkg",
-    "hash": "170ed32a0c601a2841aedff4fa403ac013636ddc009dba444e136d23822cc2f0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.securityhub.4.1.279.nupkg",
+    "hash": "61e3aadd71937c21ac453584f4f4cffe9ca1c4e1002054e13051bff4c424db0c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SecurityHub"
