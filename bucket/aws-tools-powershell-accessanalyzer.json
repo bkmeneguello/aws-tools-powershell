@@ -1,10 +1,10 @@
 {
-    "version": "4.1.280",
+    "version": "4.1.281",
     "description": "The AccessAnalyzer module of AWS Tools for PowerShell lets developers and administrators manage AWS IAM Access Analyzer from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.accessanalyzer.4.1.280.nupkg",
-    "hash": "fa9eddcd93195be1204e417acc6b07778134c382d92ef634bcca4b9e7089c6fd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.accessanalyzer.4.1.281.nupkg",
+    "hash": "a9562aae7aba3ad03174cba202bf2ad02941d4becb4cf2854ffef77ed437a749",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AccessAnalyzer"
