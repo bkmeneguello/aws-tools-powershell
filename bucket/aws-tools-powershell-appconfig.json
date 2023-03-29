@@ -1,10 +1,10 @@
 {
-    "version": "4.1.300",
+    "version": "4.1.301",
     "description": "The AppConfig module of AWS Tools for PowerShell lets developers and administrators manage AWS AppConfig from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appconfig.4.1.300.nupkg",
-    "hash": "7d63515d4a011422a06b4fddf65d6e8f58f12ff54085bef82e5cea2f671d880e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appconfig.4.1.301.nupkg",
+    "hash": "0af4eece69bde1a6dc4d00303648ff12b71ac2fa771a4084852c9a5404b0a3ab",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AppConfig"
