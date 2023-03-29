@@ -1,10 +1,10 @@
 {
-    "version": "4.1.300",
+    "version": "4.1.301",
     "description": "The SSMContacts module of AWS Tools for PowerShell lets developers and administrators manage AWS System Manager Contacts from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssmcontacts.4.1.300.nupkg",
-    "hash": "cc212ae166000ca1997fa66fd87dba347a267425c7ac1f5c3ba4315289a85253",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssmcontacts.4.1.301.nupkg",
+    "hash": "ff56a95808e34f3db20c1c2533ea27fc926089d290e236449e0c75215f86f038",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SSMContacts"
