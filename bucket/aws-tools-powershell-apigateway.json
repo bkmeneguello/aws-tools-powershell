@@ -1,10 +1,10 @@
 {
-    "version": "4.1.300",
+    "version": "4.1.301",
     "description": "The APIGateway module of AWS Tools for PowerShell lets developers and administrators manage Amazon API Gateway from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.apigateway.4.1.300.nupkg",
-    "hash": "3f6e1c14840a66d343df46fd53776bd477e968a667972e479fe1e912a3b1a4ab",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.apigateway.4.1.301.nupkg",
+    "hash": "6f3d61084a8b45ece2b628e899040605f0a7ede8e5561af3bc1087c413b39540",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.APIGateway"
