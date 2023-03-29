@@ -1,10 +1,10 @@
 {
-    "version": "4.1.300",
+    "version": "4.1.301",
     "description": "The CodePipeline module of AWS Tools for PowerShell lets developers and administrators manage AWS CodePipeline from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codepipeline.4.1.300.nupkg",
-    "hash": "70fcccc621aada247e62e404f0c7106fe12093af2d7c249e841ce607ced93b0e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codepipeline.4.1.301.nupkg",
+    "hash": "74e33a6d2e62ac3803b4d23a39e92b731cae72db56476b90cbfe81f6b853bc89",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodePipeline"
