@@ -1,10 +1,10 @@
 {
-    "version": "4.1.300",
+    "version": "4.1.301",
     "description": "The MediaStore module of AWS Tools for PowerShell lets developers and administrators manage AWS Elemental MediaStore from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediastore.4.1.300.nupkg",
-    "hash": "5c7460fc9587e2f9b590472a8d9dce1b84df179979c21a786004140d3b675dae",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.mediastore.4.1.301.nupkg",
+    "hash": "556e66de87d9997f46d4f57c2275aa0a5ed3e0cdee004a7585211f7edcf4b226",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MediaStore"
