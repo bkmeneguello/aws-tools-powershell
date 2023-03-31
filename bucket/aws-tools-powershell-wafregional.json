@@ -1,10 +1,10 @@
 {
-    "version": "4.1.302",
+    "version": "4.1.303",
     "description": "The WAFRegional module of AWS Tools for PowerShell lets developers and administrators manage AWS WAF Regional from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.wafregional.4.1.302.nupkg",
-    "hash": "742e4e05c3f110795263253912f70d0c837cd6c37c321d9be4decaa7c9e5d37c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.wafregional.4.1.303.nupkg",
+    "hash": "ca705f6b7ef118e4637b022db6530bee31b8afdff0cd70b1130f7b930725525e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.WAFRegional"
