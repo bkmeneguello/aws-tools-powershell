@@ -1,10 +1,10 @@
 {
-    "version": "4.1.309",
+    "version": "4.1.310",
     "description": "The EKS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Service for Kubernetes from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.eks.4.1.309.nupkg",
-    "hash": "65c7c3ab674c57800370e1c66c09b46567ee9fc193f75e4788b56dc1c2df2d55",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.eks.4.1.310.nupkg",
+    "hash": "2586e940e97184d7a01ecf3ac6cf2dd898cf1083a2c49e3dafea9311fbdc29d5",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.EKS"
