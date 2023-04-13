@@ -1,10 +1,10 @@
 {
-    "version": "4.1.311",
+    "version": "4.1.312",
     "description": "The Drs module of AWS Tools for PowerShell lets developers and administrators manage Elastic Disaster Recovery Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.drs.4.1.311.nupkg",
-    "hash": "6cd83482283777290895cc8a733e2b0e86adaad1c69df953d2adc27b2588d42f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.drs.4.1.312.nupkg",
+    "hash": "d172fedc21058d997ef1797fb8430a510565bf2b94ac01fc00991174bc46ff95",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Drs"
