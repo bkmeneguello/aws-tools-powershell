@@ -1,10 +1,10 @@
 {
-    "version": "4.1.321",
+    "version": "4.1.322",
     "description": "The ConfigService module of AWS Tools for PowerShell lets developers and administrators manage AWS Config from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.configservice.4.1.321.nupkg",
-    "hash": "5e32429bc32024f353b4461bce33f9a5f53c45a4cbac27ca2b5d8352baefc472",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.configservice.4.1.322.nupkg",
+    "hash": "60baff167a5a28faeef0ec77afd0c3143420cbe236b3c20455d36af145373b4e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ConfigService"
