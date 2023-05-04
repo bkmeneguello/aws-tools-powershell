@@ -1,10 +1,10 @@
 {
-    "version": "4.1.325",
+    "version": "4.1.326",
     "description": "The SecurityToken module of AWS Tools for PowerShell lets developers and administrators manage AWS Security Token Service (STS) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.securitytoken.4.1.325.nupkg",
-    "hash": "0358c85ff04d8c715e8ad6de136e9f31aff8e13a5209c4d51117668ab2933263",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.securitytoken.4.1.326.nupkg",
+    "hash": "bcb52fde870aea5a3b20d1c05a391e4b39a85c04acd51b74081919b393387b1f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SecurityToken"
