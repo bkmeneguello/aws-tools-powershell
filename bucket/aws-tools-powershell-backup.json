@@ -1,10 +1,10 @@
 {
-    "version": "4.1.327",
+    "version": "4.1.328",
     "description": "The Backup module of AWS Tools for PowerShell lets developers and administrators manage AWS Backup from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.backup.4.1.327.nupkg",
-    "hash": "492d6de06695fca3b9cd7cea62787613ef0918417ae74c915bf7ebb462bdada8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.backup.4.1.328.nupkg",
+    "hash": "5d86f05d4fe0ef622e3bc3713ab4384c4b8bac95c41a196441f3702f2f5fddc5",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Backup"
