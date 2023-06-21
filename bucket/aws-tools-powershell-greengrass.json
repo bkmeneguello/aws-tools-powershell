@@ -1,10 +1,10 @@
 {
-    "version": "4.1.355",
+    "version": "4.1.356",
     "description": "The Greengrass module of AWS Tools for PowerShell lets developers and administrators manage AWS Greengrass from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.greengrass.4.1.355.nupkg",
-    "hash": "d8cb04815dcf7bdee7e0a2fc646528cc272d54a5b1fc1b6ce5a5016d952d5dc4",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.greengrass.4.1.356.nupkg",
+    "hash": "fc8e913ef4befc409541c2a156111f776da5fec7dd79c7cd41f78677710980cc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Greengrass"
