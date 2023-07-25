@@ -1,10 +1,10 @@
 {
-    "version": "4.1.376",
+    "version": "4.1.377",
     "description": "The Cloud9 module of AWS Tools for PowerShell lets developers and administrators manage AWS Cloud9 from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloud9.4.1.376.nupkg",
-    "hash": "3327d04995a89b597f95605d87db3dc316b5b2c310b25c6fcea3e607ec59a775",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloud9.4.1.377.nupkg",
+    "hash": "dc68b52533d668f470413ffad327a0046fdeeeb1190d334fb496baccf601bca3",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Cloud9"
