@@ -1,10 +1,10 @@
 {
-    "version": "4.1.379",
+    "version": "4.1.380",
     "description": "The XRay module of AWS Tools for PowerShell lets developers and administrators manage AWS X-Ray from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.xray.4.1.379.nupkg",
-    "hash": "f21b7faf3d3e0ffd3a392a8d8225a037903cf25ae75c7c4346bde50311c24793",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.xray.4.1.380.nupkg",
+    "hash": "650e10e4f70725ab80d5194c9f45a033a8969406b47cab16421938d2dee55fe1",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.XRay"
