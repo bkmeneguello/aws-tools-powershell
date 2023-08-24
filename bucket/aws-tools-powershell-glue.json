@@ -1,10 +1,10 @@
 {
-    "version": "4.1.399",
+    "version": "4.1.400",
     "description": "The Glue module of AWS Tools for PowerShell lets developers and administrators manage AWS Glue from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.glue.4.1.399.nupkg",
-    "hash": "95787400946b790db74cb0b9368c5698a1382f0ef14705bcea71c159cff2e4fe",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.glue.4.1.400.nupkg",
+    "hash": "fefc0ab70188740708db43fa6fea31fa162c19c3af26034dbd58fd1613de85de",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Glue"
