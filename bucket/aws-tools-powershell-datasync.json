@@ -1,10 +1,10 @@
 {
-    "version": "4.1.400",
+    "version": "4.1.401",
     "description": "The DataSync module of AWS Tools for PowerShell lets developers and administrators manage AWS DataSync from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.datasync.4.1.400.nupkg",
-    "hash": "b54c9244dc22e20c5574926f85b8dc9985b22cb3ca47ee4b9563676ba045b210",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.datasync.4.1.401.nupkg",
+    "hash": "56187eb9d110ca9fb0c324132573469d020f04c61e37ab2b5c81717730a41dc4",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DataSync"
