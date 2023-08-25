@@ -1,10 +1,10 @@
 {
-    "version": "4.1.400",
+    "version": "4.1.401",
     "description": "The ElasticLoadBalancing module of AWS Tools for PowerShell lets developers and administrators manage Elastic Load Balancing from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticloadbalancing.4.1.400.nupkg",
-    "hash": "7da8fbf3127fd64eb0080c328c79af9e21fe9a9a0cb98b6dbeab999ce9a47fbe",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticloadbalancing.4.1.401.nupkg",
+    "hash": "a9a9416abe636ac2547902c5b1f6f0cfb3b75a70bc1e2079f2b2f80ff8625732",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ElasticLoadBalancing"
