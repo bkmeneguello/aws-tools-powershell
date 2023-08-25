@@ -1,10 +1,10 @@
 {
-    "version": "4.1.400",
+    "version": "4.1.401",
     "description": "The AppMesh module of AWS Tools for PowerShell lets developers and administrators manage AWS App Mesh from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appmesh.4.1.400.nupkg",
-    "hash": "78eeb033685aea4d45f021c59268a381137ff60e5d3cc5790e0b630c56acc7f8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.appmesh.4.1.401.nupkg",
+    "hash": "971f710bf88f64b12743ccf7696822ae7e74032bed1d7fddcd0faeb8ec0ff72a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AppMesh"
