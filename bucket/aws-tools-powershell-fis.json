@@ -1,10 +1,10 @@
 {
-    "version": "4.1.400",
+    "version": "4.1.402",
     "description": "The FIS module of AWS Tools for PowerShell lets developers and administrators manage AWS Fault Injection Simulator from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.fis.4.1.400.nupkg",
-    "hash": "982d7ebc34452216988c647b1122f7b0462cf6a09a57cef44a9fb8a231aa01a8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.fis.4.1.402.nupkg",
+    "hash": "fa5a6b95a9d8a77cc9f020cc197220408e060999b2372a02deb647fa8710ac64",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.FIS"
