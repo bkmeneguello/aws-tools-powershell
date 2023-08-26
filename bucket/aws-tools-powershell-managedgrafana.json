@@ -1,10 +1,10 @@
 {
-    "version": "4.1.400",
+    "version": "4.1.402",
     "description": "The ManagedGrafana module of AWS Tools for PowerShell lets developers and administrators manage Amazon Managed Grafana from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.managedgrafana.4.1.400.nupkg",
-    "hash": "b7f3dc6a22177911cd93af9edd78649b5a40f4ab9814bc9f0e174b7a7d804ca0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.managedgrafana.4.1.402.nupkg",
+    "hash": "cceb60f0ba1d887df5ba8ee30e9c5707afff6c859098e5069e3e4c3deb372e16",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ManagedGrafana"
