@@ -1,10 +1,10 @@
 {
-    "version": "4.1.400",
+    "version": "4.1.402",
     "description": "The Proton module of AWS Tools for PowerShell lets developers and administrators manage AWS Proton from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.proton.4.1.400.nupkg",
-    "hash": "8e77e42c988765ec4dc0e212ec66354e3433b6edfa1c34dee1bae29f75e300d8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.proton.4.1.402.nupkg",
+    "hash": "528c97b4b716bea2069df0a83e9dae325dc476613eb1d56fe7348b47f418afcf",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Proton"
