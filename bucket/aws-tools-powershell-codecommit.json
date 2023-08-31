@@ -1,10 +1,10 @@
 {
-    "version": "4.1.404",
+    "version": "4.1.405",
     "description": "The CodeCommit module of AWS Tools for PowerShell lets developers and administrators manage AWS CodeCommit from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codecommit.4.1.404.nupkg",
-    "hash": "f3cb04f149bd7f8dc24edf72896c9bc505f3128e12a7382b71d1da8b0771956c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.codecommit.4.1.405.nupkg",
+    "hash": "baf6357bd1f57b26a8fb99d1c4eaaccf4d795ff43e981ea824e998633fbe450a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CodeCommit"
