@@ -1,10 +1,10 @@
 {
-    "version": "4.1.404",
+    "version": "4.1.405",
     "description": "The SSOAdmin module of AWS Tools for PowerShell lets developers and administrators manage AWS Single Sign-On Admin from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssoadmin.4.1.404.nupkg",
-    "hash": "47acc344f12c5ccb60acfb899c06421db1dae6b88f3e099450969b8b11e8effd",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssoadmin.4.1.405.nupkg",
+    "hash": "05ca7145ecb04d22eaf2b3889344d0909a4b0f0ded4fd1351710ba46beb36ca0",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SSOAdmin"
