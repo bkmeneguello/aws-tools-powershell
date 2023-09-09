@@ -1,10 +1,10 @@
 {
-    "version": "4.1.409",
+    "version": "4.1.411",
     "description": "The Polly module of AWS Tools for PowerShell lets developers and administrators manage Amazon Polly from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.polly.4.1.409.nupkg",
-    "hash": "1c815cd24d32478ac97d5a1273b5a79c6d4c4d083cc93dfc0b85f41887ba4bf4",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.polly.4.1.411.nupkg",
+    "hash": "2e57cf93deadd3be677a67bf52f458392d870dc5935dd1fb0ef4960793978ac8",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Polly"
