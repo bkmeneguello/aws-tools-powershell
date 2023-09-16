@@ -1,10 +1,10 @@
 {
-    "version": "4.1.414",
+    "version": "4.1.416",
     "description": "The EC2 module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Compute Cloud (EC2) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ec2.4.1.414.nupkg",
-    "hash": "935ae88fa5e10dafd79a37b232c10ee15da1081b25032cbe790cddcde4cac9f6",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ec2.4.1.416.nupkg",
+    "hash": "3dde903a503184bc7d4629f679917acc882e7aac2f6712f477d339c489111a37",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.EC2"
