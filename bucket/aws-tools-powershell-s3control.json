@@ -1,10 +1,10 @@
 {
-    "version": "4.1.414",
+    "version": "4.1.416",
     "description": "The S3Control module of AWS Tools for PowerShell lets developers and administrators manage Amazon S3 Control from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.s3control.4.1.414.nupkg",
-    "hash": "94ac7109f14a11ed2fbcc37543323305e8a25ef46cb6495eaf045031702a85ac",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.s3control.4.1.416.nupkg",
+    "hash": "4a43bd333133bb6ea4f9f5fb2abce3dc108d234e0132b9c2f0af2fd9556c91bd",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.S3Control"
