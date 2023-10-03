@@ -1,10 +1,10 @@
 {
-    "version": "4.1.424",
+    "version": "4.1.425",
     "description": "The AuditManager module of AWS Tools for PowerShell lets developers and administrators manage AWS Audit Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.auditmanager.4.1.424.nupkg",
-    "hash": "c110365e854bdcec2862acb91df39301a79bf81bee9c1d4b412c89f2b3e7f909",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.auditmanager.4.1.425.nupkg",
+    "hash": "2dfcb330ef3545dee3719f63f89b789b4571aabf40ecfdc14811dcc5731235a9",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AuditManager"
