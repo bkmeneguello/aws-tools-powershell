@@ -1,10 +1,10 @@
 {
-    "version": "4.1.434",
+    "version": "4.1.435",
     "description": "The ECR module of AWS Tools for PowerShell lets developers and administrators manage Amazon EC2 Container Registry from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ecr.4.1.434.nupkg",
-    "hash": "b20e8676296ec3daab4eede0fb1d2fcc0671e5b36fa523bb32ac0430b141d565",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ecr.4.1.435.nupkg",
+    "hash": "8fa6adc915ee6d2c136c9596232ac3fec6df1af9980f81cf1969b881978ed087",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ECR"
