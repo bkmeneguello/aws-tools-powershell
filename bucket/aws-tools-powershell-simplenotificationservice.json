@@ -1,10 +1,10 @@
 {
-    "version": "4.1.448",
+    "version": "4.1.450",
     "description": "The SimpleNotificationService module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Notification Service (SNS) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simplenotificationservice.4.1.448.nupkg",
-    "hash": "b441029d425b4933ddbf53fdfc66e1bfdad79be9185a076a1799dff3070f1c98",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.simplenotificationservice.4.1.450.nupkg",
+    "hash": "ce8b6f89e83ed6715dedeca4c6fd4cc97bed13195659c4687a0e1aeb2093537c",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SimpleNotificationService"
