@@ -1,10 +1,10 @@
 {
-    "version": "4.1.448",
+    "version": "4.1.450",
     "description": "The Chime module of AWS Tools for PowerShell lets developers and administrators manage Amazon Chime from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chime.4.1.448.nupkg",
-    "hash": "0fd0a1e88135ac797e07604c3ff5b641f2c8bdbd370d72f7154180ab6e0cb7ec",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.chime.4.1.450.nupkg",
+    "hash": "b7219aaab80b656f4bc974c8b8bf4ec65027201fef2496d1d0cf78d03b644d45",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Chime"
