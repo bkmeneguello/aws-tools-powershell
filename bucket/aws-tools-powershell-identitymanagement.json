@@ -1,10 +1,10 @@
 {
-    "version": "4.1.448",
+    "version": "4.1.450",
     "description": "The IdentityManagement module of AWS Tools for PowerShell lets developers and administrators manage AWS Identity and Access Management from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.identitymanagement.4.1.448.nupkg",
-    "hash": "31b128d33b72a0fd8a7e0146f4146151126a7985e3c833014cbb2c80ee5d50e3",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.identitymanagement.4.1.450.nupkg",
+    "hash": "46aa82010abd687f7458b4ae46f6d12e6fdd605a191a0d1cf1fa6a65efc707dc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IdentityManagement"
