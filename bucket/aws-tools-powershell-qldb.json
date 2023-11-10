@@ -1,10 +1,10 @@
 {
-    "version": "4.1.448",
+    "version": "4.1.450",
     "description": "The QLDB module of AWS Tools for PowerShell lets developers and administrators manage Amazon QLDB from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.qldb.4.1.448.nupkg",
-    "hash": "740dad8b7ca8a979ef5327a90310e5042638846e5d42a069a1439c48b3a1ed85",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.qldb.4.1.450.nupkg",
+    "hash": "df3f30d361361e48bef16924f06377699f36bdbb9250f44eafce8bf8de416959",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.QLDB"
