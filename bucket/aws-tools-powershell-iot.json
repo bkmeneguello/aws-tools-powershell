@@ -1,10 +1,10 @@
 {
-    "version": "4.1.450",
+    "version": "4.1.451",
     "description": "The IoT module of AWS Tools for PowerShell lets developers and administrators manage AWS IoT from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iot.4.1.450.nupkg",
-    "hash": "b762ec1685ed98645da0f1495d71c67a9bb2a5a4b1191840cfb04e05428b98c8",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.iot.4.1.451.nupkg",
+    "hash": "edbaa2794d9907322aafa06f8b5f1fcbd5529b3056455f5b21def4f4f2de0ef6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.IoT"
