@@ -1,10 +1,10 @@
 {
-    "version": "4.1.450",
+    "version": "4.1.451",
     "description": "The BackupGateway module of AWS Tools for PowerShell lets developers and administrators manage AWS Backup Gateway from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.backupgateway.4.1.450.nupkg",
-    "hash": "dd08954ca7cb286a43520e5a7b81197281a6fb74b17f113c5442bb52e86b1a14",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.backupgateway.4.1.451.nupkg",
+    "hash": "81e8f66bc526a86da641b03fe5a001457f852670e0f0eecaa56eec6b6373aeb3",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.BackupGateway"
