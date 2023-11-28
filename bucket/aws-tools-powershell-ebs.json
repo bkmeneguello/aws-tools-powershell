@@ -1,10 +1,10 @@
 {
-    "version": "4.1.459",
+    "version": "4.1.461",
     "description": "The EBS module of AWS Tools for PowerShell lets developers and administrators manage Amazon EBS from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ebs.4.1.459.nupkg",
-    "hash": "e4ab0115a8cdc18dd83d143c5080f5cfa3afbc112048bdf5d2dfe4021f1f07b0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ebs.4.1.461.nupkg",
+    "hash": "038fcce8131bd67fc2a7fc6e373ca377367d2dff6d3b15d862fa38c4296d4047",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.EBS"
