@@ -1,10 +1,10 @@
 {
-    "version": "4.1.481",
+    "version": "4.1.482",
     "description": "The FMS module of AWS Tools for PowerShell lets developers and administrators manage Firewall Management Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.fms.4.1.481.nupkg",
-    "hash": "7d97e86a7edf509ac94559ebc63f5081e84958e1d638c647fe45eaafae775b1e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.fms.4.1.482.nupkg",
+    "hash": "7a086dd2a177610a6b9f086558ef45b2d0d501845050672edb227465016f479a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.FMS"
