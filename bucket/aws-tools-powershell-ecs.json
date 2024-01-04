@@ -1,10 +1,10 @@
 {
-    "version": "4.1.486",
+    "version": "4.1.487",
     "description": "The ECS module of AWS Tools for PowerShell lets developers and administrators manage Amazon EC2 Container Service from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ecs.4.1.486.nupkg",
-    "hash": "0726ec54e700309b31ca77aa9e81481124e748e75e2e2fac8af46f590330595f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ecs.4.1.487.nupkg",
+    "hash": "c05cd8e2f129ce771c76134da3854845352109687cae6e75de56daa3e18da5fa",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ECS"
