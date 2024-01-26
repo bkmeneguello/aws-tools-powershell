@@ -1,10 +1,10 @@
 {
-    "version": "4.1.500",
+    "version": "4.1.502",
     "description": "The FinSpaceData module of AWS Tools for PowerShell lets developers and administrators manage FinSpace Public API from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.finspacedata.4.1.500.nupkg",
-    "hash": "3859abdaf42d6763c85fa513796623dc048fed16801354746b43c7e5f1da9227",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.finspacedata.4.1.502.nupkg",
+    "hash": "fc1a1dd740e96ef50d42abcf2d833e024b7d1c8adc8760d945ad968dba0a559b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.FinSpaceData"
