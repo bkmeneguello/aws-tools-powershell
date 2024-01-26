@@ -1,10 +1,10 @@
 {
-    "version": "4.1.500",
+    "version": "4.1.502",
     "description": "The CostAndUsageReport module of AWS Tools for PowerShell lets developers and administrators manage AWS Cost and Usage Report from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.costandusagereport.4.1.500.nupkg",
-    "hash": "f89947689b01f72efe7fb493cfa03caa799d13fcb31e270d4af2837d83671870",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.costandusagereport.4.1.502.nupkg",
+    "hash": "ba0f495d048f1df7126384adfa521ded836a7dbddefa568fec91ab534bf57ce6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CostAndUsageReport"
