@@ -1,10 +1,10 @@
 {
-    "version": "4.1.500",
+    "version": "4.1.502",
     "description": "The ElasticMapReduce module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic MapReduce from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticmapreduce.4.1.500.nupkg",
-    "hash": "d5d707b5e99d350f5e2afe4d693f0c3324a9118832981c7701ecdbf28aff6b0c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.elasticmapreduce.4.1.502.nupkg",
+    "hash": "1aff5b401f25d3b656844313a200a4cf74024fa0bff83ef490d76d8278d0988f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ElasticMapReduce"
