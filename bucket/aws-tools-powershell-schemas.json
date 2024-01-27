@@ -1,10 +1,10 @@
 {
-    "version": "4.1.502",
+    "version": "4.1.503",
     "description": "The Schemas module of AWS Tools for PowerShell lets developers and administrators manage Amazon EventBridge Schema Registry from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.schemas.4.1.502.nupkg",
-    "hash": "0a9d4113dbc9ca769b77f51e8e637504183016c304f28fbd5b5d116618a5a079",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.schemas.4.1.503.nupkg",
+    "hash": "649d04ce1e31c97723912ba88f463f8d7b55f938232a765dc1e0093d4f7b4e71",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Schemas"
