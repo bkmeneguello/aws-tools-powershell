@@ -1,10 +1,10 @@
 {
-    "version": "4.1.504",
+    "version": "4.1.505",
     "description": "The GuardDuty module of AWS Tools for PowerShell lets developers and administrators manage Amazon GuardDuty from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.guardduty.4.1.504.nupkg",
-    "hash": "cda3839d260225f694ca9480d2051287f09b0fdab50d1402ceae33183c6ab760",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.guardduty.4.1.505.nupkg",
+    "hash": "eb43d139ae607e9b1c8a68098c4e1d7d868206139bc403800f468ef223a6368a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.GuardDuty"
