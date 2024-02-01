@@ -1,10 +1,10 @@
 {
-    "version": "4.1.505",
+    "version": "4.1.506",
     "description": "The SQS module of AWS Tools for PowerShell lets developers and administrators manage Amazon Simple Queue Service (SQS) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sqs.4.1.505.nupkg",
-    "hash": "8db5e721357692dd7a77e6d7736517904236bfc6f3ef9ba5d9e0ecd82794fdce",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sqs.4.1.506.nupkg",
+    "hash": "c70d3f428cf0399ab34d5c27447455d0ba71a9d13feedd185fdc64c15de15590",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SQS"
