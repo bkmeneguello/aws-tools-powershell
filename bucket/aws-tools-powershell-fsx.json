@@ -1,10 +1,10 @@
 {
-    "version": "4.1.511",
+    "version": "4.1.512",
     "description": "The FSx module of AWS Tools for PowerShell lets developers and administrators manage Amazon FSx from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.fsx.4.1.511.nupkg",
-    "hash": "d53b5da0e84d318893258d99ca30be1164f1a3e0e1e86c78ef33070a3e59c55c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.fsx.4.1.512.nupkg",
+    "hash": "73af330cca5f08434d523c28d2a04b8e26cb97dde89f6a23bd95c13c9f717257",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.FSx"
