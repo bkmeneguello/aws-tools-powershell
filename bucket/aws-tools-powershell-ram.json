@@ -1,10 +1,10 @@
 {
-    "version": "4.1.512",
+    "version": "4.1.513",
     "description": "The RAM module of AWS Tools for PowerShell lets developers and administrators manage AWS Resource Access Manager (RAM) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ram.4.1.512.nupkg",
-    "hash": "e10287bc31f718e2e6936bdcbcecab008e0e18ed106113dd2f950601e2c879f0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ram.4.1.513.nupkg",
+    "hash": "320aad194e1206e3027002718a56f1c9aede04593119d4af123cfc5f8e64cb39",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.RAM"
