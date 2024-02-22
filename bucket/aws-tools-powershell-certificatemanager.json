@@ -1,10 +1,10 @@
 {
-    "version": "4.1.520",
+    "version": "4.1.521",
     "description": "The CertificateManager module of AWS Tools for PowerShell lets developers and administrators manage AWS Certificate Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.certificatemanager.4.1.520.nupkg",
-    "hash": "5e545c8ac52e62a638f491259d10e4d7b2f25fe7cd840465ffd259d796f674ca",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.certificatemanager.4.1.521.nupkg",
+    "hash": "448ae4c3c095d32422ebb203b9a4c770508efa4e6a216ae36e03daeb5fede99f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CertificateManager"
