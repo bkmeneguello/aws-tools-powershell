@@ -1,10 +1,10 @@
 {
-    "version": "4.1.522",
+    "version": "4.1.523",
     "description": "The SSO module of AWS Tools for PowerShell lets developers and administrators manage AWS Single Sign-On from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sso.4.1.522.nupkg",
-    "hash": "fa1bb10458b13e4b5f35369df5e28ec79475cc7d24a8485d19bea4e519d11ac0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.sso.4.1.523.nupkg",
+    "hash": "77a64f2981be58e07e1f0976bd02efb3dab2910be48fa728f09563a4a51e9965",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SSO"
