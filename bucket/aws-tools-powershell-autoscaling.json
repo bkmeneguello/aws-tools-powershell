@@ -1,10 +1,10 @@
 {
-    "version": "4.1.555",
+    "version": "4.1.556",
     "description": "The AutoScaling module of AWS Tools for PowerShell lets developers and administrators manage AWS Auto Scaling from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.autoscaling.4.1.555.nupkg",
-    "hash": "19b62ac1dd1f2c7505bb6781c522b202b88cbeac905beee3b64902e44a526392",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.autoscaling.4.1.556.nupkg",
+    "hash": "15448e2f3bda67e9d07404420a18edbd313245ea8e2499f95ad48c7c02238cd6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.AutoScaling"
