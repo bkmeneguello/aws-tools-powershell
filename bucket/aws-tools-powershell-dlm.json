@@ -1,10 +1,10 @@
 {
-    "version": "4.1.555",
+    "version": "4.1.556",
     "description": "The DLM module of AWS Tools for PowerShell lets developers and administrators manage Amazon Data Lifecycle Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dlm.4.1.555.nupkg",
-    "hash": "5709692984eaddb9af9749f4638e5d56d08d6d992a03b248527b290fac973bc5",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.dlm.4.1.556.nupkg",
+    "hash": "e7c52e4fc307a66b3f5ca868c88342f062c55d4a7d88b9c100bb9cdfa5223a2f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.DLM"
