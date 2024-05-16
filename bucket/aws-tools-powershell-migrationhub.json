@@ -1,10 +1,10 @@
 {
-    "version": "4.1.579",
+    "version": "4.1.580",
     "description": "The MigrationHub module of AWS Tools for PowerShell lets developers and administrators manage AWS Migration Hub from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.migrationhub.4.1.579.nupkg",
-    "hash": "25a49cbb30b975887a93982c47ffca57982825e776b7ea69b4083e62aa375dcb",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.migrationhub.4.1.580.nupkg",
+    "hash": "46e177d41df8a9ec31ecd3931b99af22e465a97bc146ad065b7eb66d3ddb5ed0",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.MigrationHub"
