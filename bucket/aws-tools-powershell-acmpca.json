@@ -1,10 +1,10 @@
 {
-    "version": "4.1.583",
+    "version": "4.1.584",
     "description": "The ACMPCA module of AWS Tools for PowerShell lets developers and administrators manage AWS Certificate Manager Private Certificate Authority from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.acmpca.4.1.583.nupkg",
-    "hash": "ac0808032e54443c948d64b6fe75bac10f6691ed997d8b949e56f43111453c29",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.acmpca.4.1.584.nupkg",
+    "hash": "4564dffb63ed23bf4db5becc1275192a090878999d61ace3cfdfd1fcd418aed1",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ACMPCA"
