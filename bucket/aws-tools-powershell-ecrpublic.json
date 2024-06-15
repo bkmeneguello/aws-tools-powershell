@@ -1,10 +1,10 @@
 {
-    "version": "4.1.600",
+    "version": "4.1.601",
     "description": "The ECRPublic module of AWS Tools for PowerShell lets developers and administrators manage Amazon Elastic Container Registry Public from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ecrpublic.4.1.600.nupkg",
-    "hash": "47b5eeadbd6363242bd4228eda3ab1e6517627be2e8b53b0ac8da44ffaf5d05e",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ecrpublic.4.1.601.nupkg",
+    "hash": "22d111fc9e976a31f0ccfd082c36764db66e2d306a9887da312901db343449fc",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.ECRPublic"
