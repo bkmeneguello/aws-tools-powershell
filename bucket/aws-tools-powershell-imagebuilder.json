@@ -1,10 +1,10 @@
 {
-    "version": "4.1.601",
+    "version": "4.1.602",
     "description": "The Imagebuilder module of AWS Tools for PowerShell lets developers and administrators manage EC2 Image Builder from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.imagebuilder.4.1.601.nupkg",
-    "hash": "d4392967f785ed6704df9113069636ae24d1933172b0a6e78a074ea80bf9ebd0",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.imagebuilder.4.1.602.nupkg",
+    "hash": "db8e7ea2c67098b203df39db98befc16a291570ab9544977eb5330cf067b7564",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Imagebuilder"
