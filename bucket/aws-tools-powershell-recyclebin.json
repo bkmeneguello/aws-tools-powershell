@@ -1,10 +1,10 @@
 {
-    "version": "4.1.610",
+    "version": "4.1.611",
     "description": "The RecycleBin module of AWS Tools for PowerShell lets developers and administrators manage Amazon Recycle Bin from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.recyclebin.4.1.610.nupkg",
-    "hash": "c890e43ac5bf48544731a3d302af7cc4a18b7f0d4bc3316c9108f9c5d6958691",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.recyclebin.4.1.611.nupkg",
+    "hash": "20f30aaf72cee25f06315c3f17a1316b7ef437827c7068ecde57dbd854dd285a",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.RecycleBin"
