@@ -1,10 +1,10 @@
 {
-    "version": "4.1.618",
+    "version": "4.1.619",
     "description": "The KafkaConnect module of AWS Tools for PowerShell lets developers and administrators manage Managed Streaming for Kafka Connect from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kafkaconnect.4.1.618.nupkg",
-    "hash": "dbe0616acc430d2bde88e3dea796fc0659a1d6061275c270a67ab50520e6d11c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kafkaconnect.4.1.619.nupkg",
+    "hash": "f5870d8d66b6e0557852d16c4838ca7f69dd793bebb4a768e639861b31f6fd9f",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.KafkaConnect"
