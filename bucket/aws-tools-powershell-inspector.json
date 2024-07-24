@@ -1,10 +1,10 @@
 {
-    "version": "4.1.620",
+    "version": "4.1.621",
     "description": "The Inspector module of AWS Tools for PowerShell lets developers and administrators manage Amazon Inspector from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.inspector.4.1.620.nupkg",
-    "hash": "1614b1b4eb31c5a954635ac5f4ba0301f6123ec5c977cc6021b7c2672c65782f",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.inspector.4.1.621.nupkg",
+    "hash": "db168bbf5becf24f2077d042777f70a866919b7be669b7b6acdd3f78f3315e03",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Inspector"
