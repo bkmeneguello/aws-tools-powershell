@@ -1,10 +1,10 @@
 {
-    "version": "4.1.620",
+    "version": "4.1.621",
     "description": "The CloudHSMV2 module of AWS Tools for PowerShell lets developers and administrators manage AWS CloudHSM V2 from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudhsmv2.4.1.620.nupkg",
-    "hash": "4524b567a9881044ef13cad263a4059311e4809fdb51805d45e078a3d5b66d10",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudhsmv2.4.1.621.nupkg",
+    "hash": "f783f975e586ff912abe3a7f21215660d150578f73611418b4f5c4c1672d1b40",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudHSMV2"
