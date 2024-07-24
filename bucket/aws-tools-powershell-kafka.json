@@ -1,10 +1,10 @@
 {
-    "version": "4.1.620",
+    "version": "4.1.621",
     "description": "The Kafka module of AWS Tools for PowerShell lets developers and administrators manage Amazon Managed Streaming for Apache Kafka (MSK) from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kafka.4.1.620.nupkg",
-    "hash": "24756778ab9716d0e7267cb071a03184c4248a4504dbf4384d69cc05c01f5fbc",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.kafka.4.1.621.nupkg",
+    "hash": "a817b22b2aecb261284f9d96266cfa78d192cf416960149f5507340a39cfcf4e",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Kafka"
