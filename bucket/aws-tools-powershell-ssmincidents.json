@@ -1,10 +1,10 @@
 {
-    "version": "4.1.628",
+    "version": "4.1.629",
     "description": "The SSMIncidents module of AWS Tools for PowerShell lets developers and administrators manage AWS Systems Manager Incident Manager from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssmincidents.4.1.628.nupkg",
-    "hash": "83a311290016f2ffa24eb85601e00d884a4d96de25231f82fdfa4fb691ddaf8b",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssmincidents.4.1.629.nupkg",
+    "hash": "d421d37e13387c33862ce58aa066400b3b4ddf00ad6da6d144f4ea48b7f37fd1",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SSMIncidents"
