@@ -1,10 +1,10 @@
 {
-    "version": "4.1.630",
+    "version": "4.1.631",
     "description": "The Transfer module of AWS Tools for PowerShell lets developers and administrators manage AWS Transfer for SFTP from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.transfer.4.1.630.nupkg",
-    "hash": "56505f4a86606e2739b1f81c3e34c3f07f06ad89441638d815c12dc9b2475b47",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.transfer.4.1.631.nupkg",
+    "hash": "3e4772f5e513b68463f3648ae8a6546b7d47a314b13bad0865d715f5f0d45ac6",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.Transfer"
