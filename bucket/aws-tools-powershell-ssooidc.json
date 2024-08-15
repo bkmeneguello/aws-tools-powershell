@@ -1,10 +1,10 @@
 {
-    "version": "4.1.634",
+    "version": "4.1.635",
     "description": "The SSOOIDC module of AWS Tools for PowerShell lets developers and administrators manage AWS Single Sign-On OIDC from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssooidc.4.1.634.nupkg",
-    "hash": "37ca425566ce70d2a81ed1719e5efb03d4e41aa6a75155fa6d84ce37d4bf7772",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.ssooidc.4.1.635.nupkg",
+    "hash": "c19adf74eb80416ff1496673a053a1fb9fe1774032e195c44423f994ef70b62b",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.SSOOIDC"
