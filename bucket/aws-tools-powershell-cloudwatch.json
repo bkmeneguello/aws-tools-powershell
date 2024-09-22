@@ -1,10 +1,10 @@
 {
-    "version": "4.1.660",
+    "version": "4.1.661",
     "description": "The CloudWatch module of AWS Tools for PowerShell lets developers and administrators manage Amazon CloudWatch from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatch.4.1.660.nupkg",
-    "hash": "6289e1a526db2576b1cb76d90af3432b9cc0852c7a62d5355f7436bba6c7739c",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.cloudwatch.4.1.661.nupkg",
+    "hash": "493f5d4b87d42687fb08e5a2dee67a8bcfeafbcf50ac545b74604885f8a77efe",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.CloudWatch"
