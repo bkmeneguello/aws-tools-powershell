@@ -1,10 +1,10 @@
 {
-    "version": "4.1.666",
+    "version": "4.1.668",
     "description": "The NetworkFirewall module of AWS Tools for PowerShell lets developers and administrators manage AWS Network Firewall from the PowerShell scripting environment",
     "homepage": "https://github.com/aws/aws-tools-for-powershell",
     "license": "Apache-2.0",
-    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.networkfirewall.4.1.666.nupkg",
-    "hash": "22d7aa2d4da731b71435606e3c9bac8e9f7ea5b20a40405c01acd946311aa3ef",
+    "url": "https://psg-prod-eastus.azureedge.net/packages/aws.tools.networkfirewall.4.1.668.nupkg",
+    "hash": "d531955c67953af559c62f65179cdd1cfb282dbbd635ae7f4923a4770f8e739d",
     "depends": "aws-tools-powershell-common",
     "psmodule": {
         "name": "AWS.Tools.NetworkFirewall"
